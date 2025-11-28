@@ -1,0 +1,292 @@
+{
+  "animations": {
+    "1 Hit": {
+      "sprites": [
+        {
+          "name": "Hanging Dummies Anim/1 Hit/1 Hit_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 2,
+          "y": 2,
+          "w": 211,
+          "h": 186,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 211,
+          "trimmedH": 186,
+          "trimmedX": 21,
+          "trimmedY": 19,
+          "untrimmedW": 232,
+          "untrimmedH": 225
+        },
+        {
+          "name": "Hanging Dummies Anim/1 Hit/1 Hit_0001.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 189,
+          "y": 376,
+          "w": 184,
+          "h": 175,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 175,
+          "trimmedH": 184,
+          "trimmedX": 19,
+          "trimmedY": 21,
+          "untrimmedW": 232,
+          "untrimmedH": 225
+        },
+        {
+          "name": "Hanging Dummies Anim/1 Hit/1 Hit_0002.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 217,
+          "y": 2,
+          "w": 185,
+          "h": 184,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 184,
+          "trimmedH": 185,
+          "trimmedX": 20,
+          "trimmedY": 20,
+          "untrimmedW": 232,
+          "untrimmedH": 225
+        },
+        {
+          "name": "Hanging Dummies Anim/1 Hit/1 Hit_0003.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 2,
+          "y": 192,
+          "w": 183,
+          "h": 181,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 181,
+          "trimmedH": 183,
+          "trimmedX": 20,
+          "trimmedY": 22,
+          "untrimmedW": 232,
+          "untrimmedH": 225
+        }
+      ]
+    },
+    "1 Idle": {
+      "sprites": [
+        {
+          "name": "Hanging Dummies Anim/1 Idle/1 Idle_0000_dup_1 Hit_0003.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 2,
+          "y": 192,
+          "w": 183,
+          "h": 181,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Hanging Dummies Anim/1 Hit/1 Hit_0003.png",
+          "trimmedW": 181,
+          "trimmedH": 183,
+          "trimmedX": 20,
+          "trimmedY": 22,
+          "untrimmedW": 232,
+          "untrimmedH": 225
+        }
+      ]
+    },
+    "2 Idle": {
+      "sprites": [
+        {
+          "name": "Hanging Dummies Anim/2 Idle/2 Idle_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 270,
+          "y": 710,
+          "w": 140,
+          "h": 123,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 123,
+          "trimmedH": 140,
+          "trimmedX": 28,
+          "trimmedY": 27,
+          "untrimmedW": 196,
+          "untrimmedH": 208
+        }
+      ]
+    },
+    "2 Hit": {
+      "sprites": [
+        {
+          "name": "Hanging Dummies Anim/2 Hit/2 Hit_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 123,
+          "y": 555,
+          "w": 156,
+          "h": 134,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 134,
+          "trimmedH": 156,
+          "trimmedX": 41,
+          "trimmedY": 24,
+          "untrimmedW": 196,
+          "untrimmedH": 208
+        },
+        {
+          "name": "Hanging Dummies Anim/2 Hit/2 Hit_0001.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 283,
+          "y": 577,
+          "w": 140,
+          "h": 129,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 129,
+          "trimmedH": 140,
+          "trimmedX": 21,
+          "trimmedY": 24,
+          "untrimmedW": 196,
+          "untrimmedH": 208
+        },
+        {
+          "name": "Hanging Dummies Anim/2 Hit/2 Hit_0002.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 123,
+          "y": 693,
+          "w": 143,
+          "h": 122,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 122,
+          "trimmedH": 143,
+          "trimmedX": 29,
+          "trimmedY": 27,
+          "untrimmedW": 196,
+          "untrimmedH": 208
+        },
+        {
+          "name": "Hanging Dummies Anim/2 Hit/2 Hit_0003_dup_2 Idle_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 270,
+          "y": 710,
+          "w": 140,
+          "h": 123,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Hanging Dummies Anim/2 Idle/2 Idle_0000.png",
+          "trimmedW": 123,
+          "trimmedH": 140,
+          "trimmedX": 28,
+          "trimmedY": 27,
+          "untrimmedW": 196,
+          "untrimmedH": 208
+        }
+      ]
+    },
+    "3 Idle": {
+      "sprites": [
+        {
+          "name": "Hanging Dummies Anim/3 Idle/3 Idle_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 377,
+          "y": 376,
+          "w": 130,
+          "h": 197,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 130,
+          "trimmedH": 197,
+          "trimmedX": 37,
+          "trimmedY": 34,
+          "untrimmedW": 226,
+          "untrimmedH": 264
+        }
+      ]
+    },
+    "3 Hit": {
+      "sprites": [
+        {
+          "name": "Hanging Dummies Anim/3 Hit/3 Hit_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 217,
+          "y": 190,
+          "w": 184,
+          "h": 182,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 182,
+          "trimmedH": 184,
+          "trimmedX": 31,
+          "trimmedY": 29,
+          "untrimmedW": 226,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Hanging Dummies Anim/3 Hit/3 Hit_0001.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 2,
+          "y": 517,
+          "w": 117,
+          "h": 188,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 117,
+          "trimmedH": 188,
+          "trimmedX": 32,
+          "trimmedY": 49,
+          "untrimmedW": 226,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Hanging Dummies Anim/3 Hit/3 Hit_0002.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 2,
+          "y": 377,
+          "w": 174,
+          "h": 136,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 136,
+          "trimmedH": 174,
+          "trimmedX": 37,
+          "trimmedY": 55,
+          "untrimmedW": 226,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Hanging Dummies Anim/3 Hit/3 Hit_0003_dup_3 Idle_0000.png",
+          "atlasGUID": "99d88b18d28a93346afa236218d75577",
+          "x": 377,
+          "y": 376,
+          "w": 130,
+          "h": 197,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hanging Dummies Anim/3 Idle/3 Idle_0000.png",
+          "trimmedW": 130,
+          "trimmedH": 197,
+          "trimmedX": 37,
+          "trimmedY": 34,
+          "untrimmedW": 226,
+          "untrimmedH": 264
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "99d88b18d28a93346afa236218d75577",
+      "atlasPath": "Atlases/Original/Collections/Hornet Enemies/Hanging Dummies Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

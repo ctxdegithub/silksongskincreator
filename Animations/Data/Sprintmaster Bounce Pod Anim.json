@@ -1,0 +1,178 @@
+{
+  "animations": {
+    "Fly": {
+      "sprites": [
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Fly/Fly_0000.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 2,
+          "y": 2,
+          "w": 80,
+          "h": 120,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 80,
+          "trimmedH": 120,
+          "trimmedX": 19,
+          "trimmedY": 15,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        }
+      ]
+    },
+    "Hit": {
+      "sprites": [
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Hit/Hit_0000.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 2,
+          "y": 126,
+          "w": 80,
+          "h": 114,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 80,
+          "trimmedH": 114,
+          "trimmedX": 13,
+          "trimmedY": 17,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        },
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Hit/Hit_0001.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 86,
+          "y": 83,
+          "w": 109,
+          "h": 79,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 79,
+          "trimmedH": 109,
+          "trimmedX": 26,
+          "trimmedY": 16,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        },
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Hit/Hit_0002_dup_Fly_0000.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 2,
+          "y": 2,
+          "w": 80,
+          "h": 120,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Sprintmaster Bounce Pod Anim/Fly/Fly_0000.png",
+          "trimmedW": 80,
+          "trimmedH": 120,
+          "trimmedX": 19,
+          "trimmedY": 15,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        }
+      ]
+    },
+    "Wound": {
+      "sprites": [
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Wound/Wound_0000.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 86,
+          "y": 166,
+          "w": 104,
+          "h": 80,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 80,
+          "trimmedH": 104,
+          "trimmedX": 23,
+          "trimmedY": 6,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        },
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Wound/Wound_0001.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 86,
+          "y": 2,
+          "w": 115,
+          "h": 77,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 77,
+          "trimmedH": 115,
+          "trimmedX": 20,
+          "trimmedY": 0,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        },
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Wound/Wound_0002_dup_Hit_0000.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 2,
+          "y": 126,
+          "w": 80,
+          "h": 114,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Sprintmaster Bounce Pod Anim/Hit/Hit_0000.png",
+          "trimmedW": 80,
+          "trimmedH": 114,
+          "trimmedX": 13,
+          "trimmedY": 17,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        },
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Wound/Wound_0003_dup_Hit_0001.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 86,
+          "y": 83,
+          "w": 109,
+          "h": 79,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Sprintmaster Bounce Pod Anim/Hit/Hit_0001.png",
+          "trimmedW": 79,
+          "trimmedH": 109,
+          "trimmedX": 26,
+          "trimmedY": 16,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        },
+        {
+          "name": "Sprintmaster Bounce Pod Anim/Wound/Wound_0004_dup_Fly_0000.png",
+          "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+          "x": 2,
+          "y": 2,
+          "w": 80,
+          "h": 120,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Sprintmaster Bounce Pod Anim/Fly/Fly_0000.png",
+          "trimmedW": 80,
+          "trimmedH": 120,
+          "trimmedX": 19,
+          "trimmedY": 15,
+          "untrimmedW": 118,
+          "untrimmedH": 142
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "dc0aa3948805a41409b4d59e9090991b",
+      "atlasPath": "Atlases/Original/Collections/Sprintmaster Bounce Pod Cln Data/atlas0.png",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}

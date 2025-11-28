@@ -1,0 +1,68 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Witch Cluster Vine Anim/Idle/Idle_0000.png",
+          "atlasGUID": "89affc64815b5e34aa682c7daaa649fe",
+          "x": 2,
+          "y": 496,
+          "w": 487,
+          "h": 226,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 226,
+          "trimmedH": 487,
+          "trimmedX": 36,
+          "trimmedY": 4,
+          "untrimmedW": 264,
+          "untrimmedH": 502
+        },
+        {
+          "name": "Witch Cluster Vine Anim/Idle/Idle_0001.png",
+          "atlasGUID": "89affc64815b5e34aa682c7daaa649fe",
+          "x": 2,
+          "y": 2,
+          "w": 487,
+          "h": 247,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 247,
+          "trimmedH": 487,
+          "trimmedX": 10,
+          "trimmedY": 5,
+          "untrimmedW": 264,
+          "untrimmedH": 502
+        },
+        {
+          "name": "Witch Cluster Vine Anim/Idle/Idle_0002.png",
+          "atlasGUID": "89affc64815b5e34aa682c7daaa649fe",
+          "x": 2,
+          "y": 253,
+          "w": 487,
+          "h": 239,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 239,
+          "trimmedH": 487,
+          "trimmedX": 22,
+          "trimmedY": 4,
+          "untrimmedW": 264,
+          "untrimmedH": 502
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "89affc64815b5e34aa682c7daaa649fe",
+      "atlasPath": "Atlases/Original/Collections/Witch Cluster Vine Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

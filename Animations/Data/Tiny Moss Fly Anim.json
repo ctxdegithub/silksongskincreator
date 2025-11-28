@@ -1,0 +1,85 @@
+{
+  "animations": {
+    "Fly": {
+      "sprites": [
+        {
+          "name": "Tiny Moss Fly Anim/Fly/Fly_0000.png",
+          "atlasGUID": "9619a64269b54fe4d827b24400f05654",
+          "x": 95,
+          "y": 80,
+          "w": 77,
+          "h": 67,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 67,
+          "trimmedH": 77,
+          "trimmedX": 12,
+          "trimmedY": 12,
+          "untrimmedW": 89,
+          "untrimmedH": 89
+        },
+        {
+          "name": "Tiny Moss Fly Anim/Fly/Fly_0001.png",
+          "atlasGUID": "9619a64269b54fe4d827b24400f05654",
+          "x": 188,
+          "y": 2,
+          "w": 60,
+          "h": 86,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 86,
+          "trimmedH": 60,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 89,
+          "untrimmedH": 89
+        },
+        {
+          "name": "Tiny Moss Fly Anim/Fly/Fly_0002.png",
+          "atlasGUID": "9619a64269b54fe4d827b24400f05654",
+          "x": 95,
+          "y": 2,
+          "w": 89,
+          "h": 74,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 89,
+          "trimmedH": 74,
+          "trimmedX": 0,
+          "trimmedY": 7,
+          "untrimmedW": 89,
+          "untrimmedH": 89
+        },
+        {
+          "name": "Tiny Moss Fly Anim/Fly/Fly_0003.png",
+          "atlasGUID": "9619a64269b54fe4d827b24400f05654",
+          "x": 2,
+          "y": 2,
+          "w": 89,
+          "h": 83,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 89,
+          "trimmedH": 83,
+          "trimmedX": 0,
+          "trimmedY": 6,
+          "untrimmedW": 89,
+          "untrimmedH": 89
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "9619a64269b54fe4d827b24400f05654",
+      "atlasPath": "Atlases/Original/Collections/Tiny Moss Fly Cln Data/atlas0.png",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}

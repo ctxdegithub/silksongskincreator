@@ -1,0 +1,123 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Compass Icon Anim/Idle/Idle_0000.png",
+          "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+          "x": 2,
+          "y": 2,
+          "w": 104,
+          "h": 84,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 84,
+          "trimmedH": 104,
+          "trimmedX": 30,
+          "trimmedY": 43,
+          "untrimmedW": 143,
+          "untrimmedH": 155
+        }
+      ]
+    },
+    "Walk": {
+      "sprites": [
+        {
+          "name": "Compass Icon Anim/Walk/Walk_0000_dup_Idle_0000.png",
+          "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+          "x": 2,
+          "y": 2,
+          "w": 104,
+          "h": 84,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Compass Icon Anim/Idle/Idle_0000.png",
+          "trimmedW": 84,
+          "trimmedH": 104,
+          "trimmedX": 30,
+          "trimmedY": 40,
+          "untrimmedW": 143,
+          "untrimmedH": 155
+        },
+        {
+          "name": "Compass Icon Anim/Walk/Walk_0001_dup_Idle_0000.png",
+          "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+          "x": 2,
+          "y": 2,
+          "w": 104,
+          "h": 84,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Compass Icon Anim/Idle/Idle_0000.png",
+          "trimmedW": 84,
+          "trimmedH": 104,
+          "trimmedX": 30,
+          "trimmedY": 37,
+          "untrimmedW": 143,
+          "untrimmedH": 155
+        },
+        {
+          "name": "Compass Icon Anim/Walk/Walk_0002_dup_Idle_0000.png",
+          "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+          "x": 2,
+          "y": 2,
+          "w": 104,
+          "h": 84,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Compass Icon Anim/Idle/Idle_0000.png",
+          "trimmedW": 84,
+          "trimmedH": 104,
+          "trimmedX": 30,
+          "trimmedY": 38,
+          "untrimmedW": 143,
+          "untrimmedH": 155
+        },
+        {
+          "name": "Compass Icon Anim/Walk/Walk_0003_dup_Idle_0000.png",
+          "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+          "x": 2,
+          "y": 2,
+          "w": 104,
+          "h": 84,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Compass Icon Anim/Idle/Idle_0000.png",
+          "trimmedW": 84,
+          "trimmedH": 104,
+          "trimmedX": 30,
+          "trimmedY": 39,
+          "untrimmedW": 143,
+          "untrimmedH": 155
+        },
+        {
+          "name": "Compass Icon Anim/Walk/Walk_0004_dup_Idle_0000.png",
+          "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+          "x": 2,
+          "y": 2,
+          "w": 104,
+          "h": 84,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Compass Icon Anim/Idle/Idle_0000.png",
+          "trimmedW": 84,
+          "trimmedH": 104,
+          "trimmedX": 30,
+          "trimmedY": 41,
+          "untrimmedW": 143,
+          "untrimmedH": 155
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "e0a77c3394025dc4c84a6d519469d5ab",
+      "atlasPath": "Atlases/Original/Collections/Compass Icon Cln Data/atlas0.png",
+      "width": 128,
+      "height": 256
+    }
+  ]
+}

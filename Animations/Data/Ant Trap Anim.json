@@ -1,0 +1,537 @@
+{
+  "animations": {
+    "Plate Idle": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Plate Idle/Plate Idle_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 991,
+          "y": 473,
+          "w": 28,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 153,
+          "trimmedH": 28,
+          "trimmedX": 0,
+          "trimmedY": 4,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        }
+      ]
+    },
+    "Plate Press": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Plate Press/Plate Press_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 995,
+          "y": 2,
+          "w": 24,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 153,
+          "trimmedH": 24,
+          "trimmedX": 0,
+          "trimmedY": 3,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        },
+        {
+          "name": "Ant Trap Anim/Plate Press/Plate Press_0001.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 995,
+          "y": 159,
+          "w": 18,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 153,
+          "trimmedH": 18,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        }
+      ]
+    },
+    "Sickle": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Sickle/Sickle_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 2,
+          "y": 523,
+          "w": 379,
+          "h": 188,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 379,
+          "trimmedH": 188,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 379,
+          "untrimmedH": 188
+        }
+      ]
+    },
+    "Sickle Blur": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Sickle Blur/Sickle Blur_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 2,
+          "y": 2,
+          "w": 382,
+          "h": 234,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 382,
+          "trimmedH": 234,
+          "trimmedX": 18,
+          "trimmedY": 27,
+          "untrimmedW": 415,
+          "untrimmedH": 266
+        }
+      ]
+    },
+    "Plate Reset": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Plate Reset/Plate Reset_0000_dup_Plate Press_0001.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 995,
+          "y": 159,
+          "w": 18,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Plate Press/Plate Press_0001.png",
+          "trimmedW": 153,
+          "trimmedH": 18,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        },
+        {
+          "name": "Ant Trap Anim/Plate Reset/Plate Reset_0001_dup_Plate Press_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 995,
+          "y": 2,
+          "w": 24,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Plate Press/Plate Press_0000.png",
+          "trimmedW": 153,
+          "trimmedH": 24,
+          "trimmedX": 0,
+          "trimmedY": 3,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        },
+        {
+          "name": "Ant Trap Anim/Plate Reset/Plate Reset_0002.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 991,
+          "y": 316,
+          "w": 28,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 153,
+          "trimmedH": 28,
+          "trimmedX": 0,
+          "trimmedY": 6,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        },
+        {
+          "name": "Ant Trap Anim/Plate Reset/Plate Reset_0003_dup_Plate Idle_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 991,
+          "y": 473,
+          "w": 28,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Plate Idle/Plate Idle_0000.png",
+          "trimmedW": 153,
+          "trimmedH": 28,
+          "trimmedX": 0,
+          "trimmedY": 4,
+          "untrimmedW": 153,
+          "untrimmedH": 35
+        }
+      ]
+    },
+    "Cage Up": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 303,
+          "y": 240,
+          "w": 81,
+          "h": 206,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 206,
+          "trimmedH": 81,
+          "trimmedX": 24,
+          "trimmedY": 15,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0001.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 627,
+          "y": 783,
+          "w": 171,
+          "h": 261,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 261,
+          "trimmedH": 171,
+          "trimmedX": 5,
+          "trimmedY": 0,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0002.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 388,
+          "y": 298,
+          "w": 298,
+          "h": 258,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 298,
+          "trimmedH": 258,
+          "trimmedX": 0,
+          "trimmedY": 9,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0003.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 388,
+          "y": 2,
+          "w": 298,
+          "h": 292,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 292,
+          "trimmedH": 298,
+          "trimmedX": 6,
+          "trimmedY": 13,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0004.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 690,
+          "y": 2,
+          "w": 301,
+          "h": 276,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 276,
+          "trimmedH": 301,
+          "trimmedX": 7,
+          "trimmedY": 19,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0005.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 2,
+          "y": 240,
+          "w": 297,
+          "h": 279,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 279,
+          "trimmedH": 297,
+          "trimmedX": 5,
+          "trimmedY": 17,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Up/Cage Up_0006.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 690,
+          "y": 282,
+          "w": 297,
+          "h": 279,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 279,
+          "trimmedH": 297,
+          "trimmedX": 5,
+          "trimmedY": 17,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        }
+      ]
+    },
+    "Cage Idle": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage Idle/Cage Idle_0000_dup_Cage Up_0006.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 690,
+          "y": 282,
+          "w": 297,
+          "h": 279,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Cage Up/Cage Up_0006.png",
+          "trimmedW": 279,
+          "trimmedH": 297,
+          "trimmedX": 5,
+          "trimmedY": 17,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        }
+      ]
+    },
+    "Cage Hit": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage Hit/Cage Hit_0000_dup_Cage Up_0004.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 690,
+          "y": 2,
+          "w": 301,
+          "h": 276,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Cage Up/Cage Up_0004.png",
+          "trimmedW": 276,
+          "trimmedH": 301,
+          "trimmedX": 7,
+          "trimmedY": 19,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Hit/Cage Hit_0001_dup_Cage Up_0005.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 2,
+          "y": 240,
+          "w": 297,
+          "h": 279,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Cage Up/Cage Up_0005.png",
+          "trimmedW": 279,
+          "trimmedH": 297,
+          "trimmedX": 5,
+          "trimmedY": 17,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        },
+        {
+          "name": "Ant Trap Anim/Cage Hit/Cage Hit_0002_dup_Cage Up_0006.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 690,
+          "y": 282,
+          "w": 297,
+          "h": 279,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Cage Up/Cage Up_0006.png",
+          "trimmedW": 279,
+          "trimmedH": 297,
+          "trimmedX": 5,
+          "trimmedY": 17,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        }
+      ]
+    },
+    "Cage Broken": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage Broken/Cage Broken_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 2,
+          "y": 942,
+          "w": 247,
+          "h": 142,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 247,
+          "trimmedH": 142,
+          "trimmedX": 25,
+          "trimmedY": 14,
+          "untrimmedW": 298,
+          "untrimmedH": 320
+        }
+      ]
+    },
+    "Cage BG Up": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage BG Up/Cage BG Up_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 242,
+          "y": 715,
+          "w": 137,
+          "h": 141,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 141,
+          "trimmedH": 137,
+          "trimmedX": 12,
+          "trimmedY": 2,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        },
+        {
+          "name": "Ant Trap Anim/Cage BG Up/Cage BG Up_0001.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 530,
+          "y": 1048,
+          "w": 231,
+          "h": 155,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 155,
+          "trimmedH": 231,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        },
+        {
+          "name": "Ant Trap Anim/Cage BG Up/Cage BG Up_0002.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 802,
+          "y": 942,
+          "w": 147,
+          "h": 269,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 269,
+          "trimmedX": 2,
+          "trimmedY": 4,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        },
+        {
+          "name": "Ant Trap Anim/Cage BG Up/Cage BG Up_0003.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 857,
+          "y": 652,
+          "w": 140,
+          "h": 286,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 140,
+          "trimmedH": 286,
+          "trimmedX": 8,
+          "trimmedY": 6,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        },
+        {
+          "name": "Ant Trap Anim/Cage BG Up/Cage BG Up_0004.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 383,
+          "y": 786,
+          "w": 143,
+          "h": 273,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 143,
+          "trimmedH": 273,
+          "trimmedX": 5,
+          "trimmedY": 6,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        }
+      ]
+    },
+    "Cage BG Broken": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage BG Broken/Cage BG Broken_0000.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 857,
+          "y": 565,
+          "w": 122,
+          "h": 83,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 122,
+          "trimmedH": 83,
+          "trimmedX": 27,
+          "trimmedY": 5,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        }
+      ]
+    },
+    "Cage BG Idle": {
+      "sprites": [
+        {
+          "name": "Ant Trap Anim/Cage BG Idle/Cage BG Idle_0000_dup_Cage BG Up_0004.png",
+          "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+          "x": 383,
+          "y": 786,
+          "w": 143,
+          "h": 273,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Trap Anim/Cage BG Up/Cage BG Up_0004.png",
+          "trimmedW": 143,
+          "trimmedH": 273,
+          "trimmedX": 5,
+          "trimmedY": 6,
+          "untrimmedW": 155,
+          "untrimmedH": 292
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "50941b1079037b5408cb22f00d2b4de2",
+      "atlasPath": "Atlases/Original/Collections/Ant Trap Cln Data/atlas0.png",
+      "width": 1024,
+      "height": 2048
+    }
+  ]
+}

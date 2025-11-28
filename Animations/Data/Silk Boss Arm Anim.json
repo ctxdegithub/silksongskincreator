@@ -1,0 +1,106 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Silk Boss Arm Anim/Idle/Idle_0000.png",
+          "atlasGUID": "d80750c7f3b278849a37cb0147389c1d",
+          "x": 2,
+          "y": 356,
+          "w": 263,
+          "h": 222,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 222,
+          "trimmedH": 263,
+          "trimmedX": 0,
+          "trimmedY": 64,
+          "untrimmedW": 317,
+          "untrimmedH": 339
+        }
+      ]
+    },
+    "Stab": {
+      "sprites": [
+        {
+          "name": "Silk Boss Arm Anim/Stab/Stab_0000.png",
+          "atlasGUID": "d80750c7f3b278849a37cb0147389c1d",
+          "x": 269,
+          "y": 356,
+          "w": 182,
+          "h": 316,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 182,
+          "trimmedH": 316,
+          "trimmedX": 23,
+          "trimmedY": 37,
+          "untrimmedW": 286,
+          "untrimmedH": 389
+        },
+        {
+          "name": "Silk Boss Arm Anim/Stab/Stab_0001.png",
+          "atlasGUID": "d80750c7f3b278849a37cb0147389c1d",
+          "x": 2,
+          "y": 178,
+          "w": 353,
+          "h": 174,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 174,
+          "trimmedH": 353,
+          "trimmedX": 40,
+          "trimmedY": 33,
+          "untrimmedW": 286,
+          "untrimmedH": 389
+        },
+        {
+          "name": "Silk Boss Arm Anim/Stab/Stab_0002.png",
+          "atlasGUID": "d80750c7f3b278849a37cb0147389c1d",
+          "x": 2,
+          "y": 2,
+          "w": 362,
+          "h": 172,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 172,
+          "trimmedH": 362,
+          "trimmedX": 38,
+          "trimmedY": 23,
+          "untrimmedW": 286,
+          "untrimmedH": 389
+        },
+        {
+          "name": "Silk Boss Arm Anim/Stab/Stab_0003.png",
+          "atlasGUID": "d80750c7f3b278849a37cb0147389c1d",
+          "x": 2,
+          "y": 582,
+          "w": 160,
+          "h": 356,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 160,
+          "trimmedH": 356,
+          "trimmedX": 50,
+          "trimmedY": 25,
+          "untrimmedW": 286,
+          "untrimmedH": 389
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "d80750c7f3b278849a37cb0147389c1d",
+      "atlasPath": "Atlases/Original/Collections/Silk Boss Arm Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

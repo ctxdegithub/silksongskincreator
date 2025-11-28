@@ -1,0 +1,355 @@
+{
+  "animations": {
+    "Pilgrim Leaper A": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Leaper A/Pilgrim Leaper A_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 154,
+          "y": 509,
+          "w": 94,
+          "h": 189,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 189,
+          "trimmedX": 3,
+          "trimmedY": 10,
+          "untrimmedW": 105,
+          "untrimmedH": 207
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Leaper A/Pilgrim Leaper A_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 2,
+          "y": 521,
+          "w": 93,
+          "h": 188,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 93,
+          "trimmedH": 188,
+          "trimmedX": 4,
+          "trimmedY": 12,
+          "untrimmedW": 105,
+          "untrimmedH": 207
+        }
+      ]
+    },
+    "Pilgrim Leaper B": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Leaper B/Pilgrim Leaper B_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 381,
+          "y": 252,
+          "w": 116,
+          "h": 170,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 116,
+          "trimmedH": 170,
+          "trimmedX": 5,
+          "trimmedY": 13,
+          "untrimmedW": 125,
+          "untrimmedH": 197
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Leaper B/Pilgrim Leaper B_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 168,
+          "y": 390,
+          "w": 171,
+          "h": 115,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 115,
+          "trimmedH": 171,
+          "trimmedX": 4,
+          "trimmedY": 13,
+          "untrimmedW": 125,
+          "untrimmedH": 197
+        }
+      ]
+    },
+    "Pilgrim Hornhead A": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Hornhead A/Pilgrim Hornhead A_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 343,
+          "y": 426,
+          "w": 148,
+          "h": 127,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 127,
+          "trimmedH": 148,
+          "trimmedX": 0,
+          "trimmedY": 13,
+          "untrimmedW": 144,
+          "untrimmedH": 172
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Hornhead A/Pilgrim Hornhead A_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 2,
+          "y": 391,
+          "w": 148,
+          "h": 126,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 126,
+          "trimmedH": 148,
+          "trimmedX": 0,
+          "trimmedY": 13,
+          "untrimmedW": 144,
+          "untrimmedH": 172
+        }
+      ]
+    },
+    "Pilgrim Hornhead B": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Hornhead B/Pilgrim Hornhead B_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 340,
+          "y": 557,
+          "w": 170,
+          "h": 103,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 103,
+          "trimmedH": 170,
+          "trimmedX": 8,
+          "trimmedY": 10,
+          "untrimmedW": 116,
+          "untrimmedH": 192
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Hornhead B/Pilgrim Hornhead B_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 340,
+          "y": 664,
+          "w": 168,
+          "h": 100,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 100,
+          "trimmedH": 168,
+          "trimmedX": 9,
+          "trimmedY": 11,
+          "untrimmedW": 116,
+          "untrimmedH": 192
+        }
+      ]
+    },
+    "Pilgrim Bellthrower": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Bellthrower/Pilgrim Bellthrower_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 213,
+          "y": 252,
+          "w": 164,
+          "h": 134,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 134,
+          "trimmedH": 164,
+          "trimmedX": 49,
+          "trimmedY": 33,
+          "untrimmedW": 220,
+          "untrimmedH": 225
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Bellthrower/Pilgrim Bellthrower_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 2,
+          "y": 253,
+          "w": 162,
+          "h": 134,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 134,
+          "trimmedH": 162,
+          "trimmedX": 50,
+          "trimmedY": 35,
+          "untrimmedW": 220,
+          "untrimmedH": 225
+        }
+      ]
+    },
+    "Pilgrim Fly": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Fly/Pilgrim Fly_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 339,
+          "y": 768,
+          "w": 133,
+          "h": 96,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 96,
+          "trimmedH": 133,
+          "trimmedX": 14,
+          "trimmedY": 16,
+          "untrimmedW": 128,
+          "untrimmedH": 168
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Fly/Pilgrim Fly_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 99,
+          "y": 702,
+          "w": 132,
+          "h": 96,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 96,
+          "trimmedH": 132,
+          "trimmedX": 13,
+          "trimmedY": 15,
+          "untrimmedW": 128,
+          "untrimmedH": 168
+        }
+      ]
+    },
+    "Pilgrim Lanky": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Lanky/Pilgrim Lanky_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 252,
+          "y": 686,
+          "w": 83,
+          "h": 174,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 83,
+          "trimmedH": 174,
+          "trimmedX": 12,
+          "trimmedY": 16,
+          "untrimmedW": 119,
+          "untrimmedH": 215
+        },
+        {
+          "name": "Raptured Citadel Anim/Pilgrim Lanky/Pilgrim Lanky_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 252,
+          "y": 509,
+          "w": 84,
+          "h": 173,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 84,
+          "trimmedH": 173,
+          "trimmedX": 11,
+          "trimmedY": 19,
+          "untrimmedW": 119,
+          "untrimmedH": 215
+        }
+      ]
+    },
+    "Swordsman": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Swordsman/Swordsman_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 250,
+          "y": 128,
+          "w": 209,
+          "h": 120,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 120,
+          "trimmedH": 209,
+          "trimmedX": 14,
+          "trimmedY": 26,
+          "untrimmedW": 153,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Raptured Citadel Anim/Swordsman/Swordsman_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 2,
+          "y": 129,
+          "w": 207,
+          "h": 120,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 120,
+          "trimmedH": 207,
+          "trimmedX": 14,
+          "trimmedY": 28,
+          "untrimmedW": 153,
+          "untrimmedH": 264
+        }
+      ]
+    },
+    "Sword Flyer": {
+      "sprites": [
+        {
+          "name": "Raptured Citadel Anim/Sword Flyer/Sword Flyer_0000.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 2,
+          "y": 2,
+          "w": 244,
+          "h": 123,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 123,
+          "trimmedH": 244,
+          "trimmedX": 19,
+          "trimmedY": 8,
+          "untrimmedW": 179,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Raptured Citadel Anim/Sword Flyer/Sword Flyer_0001.png",
+          "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+          "x": 250,
+          "y": 2,
+          "w": 244,
+          "h": 122,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 122,
+          "trimmedH": 244,
+          "trimmedX": 20,
+          "trimmedY": 8,
+          "untrimmedW": 179,
+          "untrimmedH": 264
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "2aa3626fd3dee4d4ca1cf5d02d5d0c20",
+      "atlasPath": "Atlases/Original/Collections/Raptured Citadel Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

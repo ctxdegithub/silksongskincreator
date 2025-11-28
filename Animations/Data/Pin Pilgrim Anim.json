@@ -1,0 +1,381 @@
+{
+  "animations": {
+    "Idle Left": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Idle Left/Idle Left_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 2,
+          "y": 2,
+          "w": 170,
+          "h": 105,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 105,
+          "trimmedH": 170,
+          "trimmedX": 18,
+          "trimmedY": 0,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Idle Left/Idle Left_0001.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 350,
+          "y": 2,
+          "w": 152,
+          "h": 105,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 105,
+          "trimmedH": 152,
+          "trimmedX": 18,
+          "trimmedY": 17,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Idle Left/Idle Left_0002.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 176,
+          "y": 105,
+          "w": 151,
+          "h": 105,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 105,
+          "trimmedH": 151,
+          "trimmedX": 18,
+          "trimmedY": 18,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Idle Left/Idle Left_0003.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 2,
+          "y": 111,
+          "w": 151,
+          "h": 105,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 105,
+          "trimmedH": 151,
+          "trimmedX": 18,
+          "trimmedY": 18,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    },
+    "Turn": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Turn/Turn_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 307,
+          "y": 317,
+          "w": 143,
+          "h": 99,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 99,
+          "trimmedH": 143,
+          "trimmedX": 23,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    },
+    "Idle Right": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Idle Right/Idle Right_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 176,
+          "y": 2,
+          "w": 170,
+          "h": 99,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 99,
+          "trimmedH": 170,
+          "trimmedX": 24,
+          "trimmedY": 0,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Idle Right/Idle Right_0001.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 331,
+          "y": 111,
+          "w": 152,
+          "h": 99,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 99,
+          "trimmedH": 152,
+          "trimmedX": 24,
+          "trimmedY": 17,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Idle Right/Idle Right_0002.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 2,
+          "y": 220,
+          "w": 151,
+          "h": 97,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 97,
+          "trimmedH": 151,
+          "trimmedX": 26,
+          "trimmedY": 18,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Idle Right/Idle Right_0003.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 157,
+          "y": 214,
+          "w": 151,
+          "h": 98,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 98,
+          "trimmedH": 151,
+          "trimmedX": 25,
+          "trimmedY": 18,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    },
+    "Listen": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Listen/Listen_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 151,
+          "y": 419,
+          "w": 148,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 148,
+          "trimmedX": 28,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Listen/Listen_0001.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 2,
+          "y": 423,
+          "w": 94,
+          "h": 148,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 148,
+          "trimmedX": 29,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Listen/Listen_0002.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 2,
+          "y": 575,
+          "w": 94,
+          "h": 146,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 146,
+          "trimmedX": 29,
+          "trimmedY": 22,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Listen/Listen_0003.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 303,
+          "y": 420,
+          "w": 147,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 147,
+          "trimmedX": 29,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Listen/Listen_0004.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 100,
+          "y": 517,
+          "w": 147,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 147,
+          "trimmedX": 29,
+          "trimmedY": 21,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    },
+    "Sing": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Sing/Sing_0000_dup_Listen_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 151,
+          "y": 419,
+          "w": 148,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Pin Pilgrim Anim/Listen/Listen_0000.png",
+          "trimmedW": 94,
+          "trimmedH": 148,
+          "trimmedX": 28,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Sing/Sing_0001.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 2,
+          "y": 321,
+          "w": 145,
+          "h": 98,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 98,
+          "trimmedH": 145,
+          "trimmedX": 30,
+          "trimmedY": 22,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Sing/Sing_0002.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 157,
+          "y": 316,
+          "w": 146,
+          "h": 99,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 99,
+          "trimmedH": 146,
+          "trimmedX": 30,
+          "trimmedY": 21,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        },
+        {
+          "name": "Pin Pilgrim Anim/Sing/Sing_0003.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 312,
+          "y": 214,
+          "w": 147,
+          "h": 99,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 99,
+          "trimmedH": 147,
+          "trimmedX": 30,
+          "trimmedY": 21,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    },
+    "Sing End": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Sing End/Sing End_0000_dup_Listen_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 151,
+          "y": 419,
+          "w": 148,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Pin Pilgrim Anim/Listen/Listen_0000.png",
+          "trimmedW": 94,
+          "trimmedH": 148,
+          "trimmedX": 28,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    },
+    "Listen Exit": {
+      "sprites": [
+        {
+          "name": "Pin Pilgrim Anim/Listen Exit/Listen Exit_0000_dup_Listen_0000.png",
+          "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+          "x": 151,
+          "y": 419,
+          "w": 148,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Pin Pilgrim Anim/Listen/Listen_0000.png",
+          "trimmedW": 94,
+          "trimmedH": 148,
+          "trimmedX": 28,
+          "trimmedY": 20,
+          "untrimmedW": 145,
+          "untrimmedH": 211
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "4520f97cdf5d9e249ba924918c4507e2",
+      "atlasPath": "Atlases/Original/Collections/Hornet NPCs/Pin Pilgrim Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

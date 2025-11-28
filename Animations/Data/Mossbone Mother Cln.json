@@ -1,0 +1,326 @@
+{
+  "animations": {
+    "Antic": {
+      "sprites": [
+        {
+          "name": "Mossbone Mother Cln/Antic/Antic_0000_dup_Antic_0000.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 439,
+          "y": 848,
+          "w": 214,
+          "h": 204,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Antic/Antic_0000.png",
+          "trimmedW": 204,
+          "trimmedH": 214,
+          "trimmedX": 22,
+          "trimmedY": 57,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Antic/Antic_0001_dup_Antic_0001.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 657,
+          "y": 947,
+          "w": 213,
+          "h": 188,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Antic/Antic_0001.png",
+          "trimmedW": 188,
+          "trimmedH": 213,
+          "trimmedX": 41,
+          "trimmedY": 51,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Antic/Antic_0002_dup_Antic_0002.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 468,
+          "y": 640,
+          "w": 218,
+          "h": 204,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Antic/Antic_0002.png",
+          "trimmedW": 204,
+          "trimmedH": 218,
+          "trimmedX": 25,
+          "trimmedY": 47,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        }
+      ]
+    },
+    "Charge": {
+      "sprites": [
+        {
+          "name": "Mossbone Mother Cln/Charge/Charge_0000_dup_Charge_0000.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 234,
+          "y": 626,
+          "w": 230,
+          "h": 205,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Charge/Charge_0000.png",
+          "trimmedW": 205,
+          "trimmedH": 230,
+          "trimmedX": 16,
+          "trimmedY": 54,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Charge/Charge_0001_dup_Charge_0001.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 690,
+          "y": 734,
+          "w": 209,
+          "h": 209,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Charge/Charge_0001.png",
+          "trimmedW": 209,
+          "trimmedH": 209,
+          "trimmedX": 6,
+          "trimmedY": 52,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Charge/Charge_0002_dup_Charge_0002.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 525,
+          "y": 414,
+          "w": 233,
+          "h": 222,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Charge/Charge_0002.png",
+          "trimmedW": 222,
+          "trimmedH": 233,
+          "trimmedX": 0,
+          "trimmedY": 53,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        }
+      ]
+    },
+    "Charge End": {
+      "sprites": [
+        {
+          "name": "Mossbone Mother Cln/Charge End/Charge End_0000_dup_Charge Recover_0000.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 2,
+          "y": 2,
+          "w": 281,
+          "h": 207,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Charge Recover/Charge Recover_0000.png",
+          "trimmedW": 207,
+          "trimmedH": 281,
+          "trimmedX": 9,
+          "trimmedY": 22,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        }
+      ]
+    },
+    "Fly": {
+      "sprites": [
+        {
+          "name": "Mossbone Mother Cln/Fly/Fly_0000_dup_Fly_0000.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 256,
+          "y": 214,
+          "w": 265,
+          "h": 199,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Fly/Fly_0000.png",
+          "trimmedW": 199,
+          "trimmedH": 265,
+          "trimmedX": 29,
+          "trimmedY": 48,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Fly/Fly_0001_dup_Fly_0001.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 563,
+          "y": 207,
+          "w": 263,
+          "h": 203,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Fly/Fly_0001.png",
+          "trimmedW": 203,
+          "trimmedH": 263,
+          "trimmedX": 29,
+          "trimmedY": 44,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Fly/Fly_0002_dup_Fly_0002.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 563,
+          "y": 2,
+          "w": 269,
+          "h": 201,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Fly/Fly_0002.png",
+          "trimmedW": 201,
+          "trimmedH": 269,
+          "trimmedX": 23,
+          "trimmedY": 35,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Fly/Fly_0003_dup_Fly_0003.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 287,
+          "y": 2,
+          "w": 272,
+          "h": 208,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Fly/Fly_0003.png",
+          "trimmedW": 208,
+          "trimmedH": 272,
+          "trimmedX": 25,
+          "trimmedY": 30,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        }
+      ]
+    },
+    "Roar": {
+      "sprites": [
+        {
+          "name": "Mossbone Mother Cln/Roar/Roar_0000_dup_Roar_0000.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 2,
+          "y": 914,
+          "w": 172,
+          "h": 250,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Roar/Roar_0000.png",
+          "trimmedW": 172,
+          "trimmedH": 250,
+          "trimmedX": 39,
+          "trimmedY": 52,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Roar/Roar_0001_dup_Roar_0001.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 836,
+          "y": 2,
+          "w": 184,
+          "h": 257,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Roar/Roar_0001.png",
+          "trimmedW": 184,
+          "trimmedH": 257,
+          "trimmedX": 14,
+          "trimmedY": 43,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Roar/Roar_0002_dup_Roar_0002.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 2,
+          "y": 660,
+          "w": 178,
+          "h": 250,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/Roar/Roar_0002.png",
+          "trimmedW": 178,
+          "trimmedH": 250,
+          "trimmedX": 21,
+          "trimmedY": 48,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        }
+      ]
+    },
+    "Turn": {
+      "sprites": [
+        {
+          "name": "Mossbone Mother Cln/Turn/Turn_0000_dup_TurnToFly_0000.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 762,
+          "y": 517,
+          "w": 241,
+          "h": 213,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/TurnToFly/TurnToFly_0000.png",
+          "trimmedW": 213,
+          "trimmedH": 241,
+          "trimmedX": 26,
+          "trimmedY": 66,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Turn/Turn_0001_dup_TurnToFly_0001.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 2,
+          "y": 440,
+          "w": 228,
+          "h": 216,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Mossbone Mother Anim/TurnToFly/TurnToFly_0001.png",
+          "trimmedW": 216,
+          "trimmedH": 228,
+          "trimmedX": 20,
+          "trimmedY": 72,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        },
+        {
+          "name": "Mossbone Mother Cln/Turn/Turn_0002.png",
+          "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+          "x": 830,
+          "y": 263,
+          "w": 181,
+          "h": 250,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 181,
+          "trimmedH": 250,
+          "trimmedX": 30,
+          "trimmedY": 42,
+          "untrimmedW": 270,
+          "untrimmedH": 335
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "d8d762a18b0d56548b9f84821c62a1aa",
+      "atlasPath": "Atlases/Original/Collections/Hornet Enemies/Mossbone Mother Cln Data/atlas0.png",
+      "width": 1024,
+      "height": 2048
+    }
+  ]
+}

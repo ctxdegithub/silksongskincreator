@@ -1,0 +1,440 @@
+{
+  "animations": {
+    "Appear Begin": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear Begin/Appear Begin_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 343,
+          "y": 322,
+          "w": 33,
+          "h": 42,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 33,
+          "trimmedH": 42,
+          "trimmedX": 119,
+          "trimmedY": 71,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear Begin/Appear Begin_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 114,
+          "y": 465,
+          "w": 52,
+          "h": 63,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 52,
+          "trimmedH": 63,
+          "trimmedX": 108,
+          "trimmedY": 58,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear Begin/Appear Begin_0002.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 291,
+          "y": 582,
+          "w": 99,
+          "h": 95,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 95,
+          "trimmedH": 99,
+          "trimmedX": 83,
+          "trimmedY": 44,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Appear 1": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 1/Appear 1_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 2,
+          "w": 197,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 153,
+          "trimmedH": 197,
+          "trimmedX": 76,
+          "trimmedY": 12,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 1/Appear 1_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 203,
+          "y": 2,
+          "w": 195,
+          "h": 152,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 152,
+          "trimmedH": 195,
+          "trimmedX": 78,
+          "trimmedY": 13,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 1/Appear 1_0002.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 159,
+          "w": 183,
+          "h": 147,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 183,
+          "trimmedX": 82,
+          "trimmedY": 19,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Appear 2": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 2/Appear 2_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 203,
+          "y": 158,
+          "w": 180,
+          "h": 160,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 180,
+          "trimmedH": 160,
+          "trimmedX": 84,
+          "trimmedY": 11,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 2/Appear 2_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 310,
+          "w": 172,
+          "h": 151,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 172,
+          "trimmedH": 151,
+          "trimmedX": 88,
+          "trimmedY": 14,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 2/Appear 2_0002.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 178,
+          "y": 322,
+          "w": 161,
+          "h": 138,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 161,
+          "trimmedH": 138,
+          "trimmedX": 94,
+          "trimmedY": 20,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Appear 3": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 3/Appear 3_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 178,
+          "y": 464,
+          "w": 109,
+          "h": 176,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 109,
+          "trimmedH": 176,
+          "trimmedX": 87,
+          "trimmedY": 18,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 3/Appear 3_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 465,
+          "w": 108,
+          "h": 174,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 108,
+          "trimmedH": 174,
+          "trimmedX": 87,
+          "trimmedY": 18,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 3/Appear 3_0002.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 643,
+          "w": 161,
+          "h": 94,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 161,
+          "trimmedX": 94,
+          "trimmedY": 24,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Appear 4": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 4/Appear 4_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 343,
+          "y": 388,
+          "w": 113,
+          "h": 190,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 113,
+          "trimmedH": 190,
+          "trimmedX": 92,
+          "trimmedY": 12,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 4/Appear 4_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 387,
+          "y": 189,
+          "w": 119,
+          "h": 195,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 119,
+          "trimmedH": 195,
+          "trimmedX": 90,
+          "trimmedY": 13,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Appear 4/Appear 4_0002.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 402,
+          "y": 2,
+          "w": 106,
+          "h": 183,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 106,
+          "trimmedH": 183,
+          "trimmedX": 97,
+          "trimmedY": 19,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Break 1": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 1/Break 1_0000_dup_Appear 1_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 203,
+          "y": 2,
+          "w": 195,
+          "h": 152,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 1/Appear 1_0001.png",
+          "trimmedW": 152,
+          "trimmedH": 195,
+          "trimmedX": 78,
+          "trimmedY": 13,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 1/Break 1_0001_dup_Appear 1_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 2,
+          "w": 197,
+          "h": 153,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 1/Appear 1_0000.png",
+          "trimmedW": 153,
+          "trimmedH": 197,
+          "trimmedX": 76,
+          "trimmedY": 12,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Break 2": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 2/Break 2_0000_dup_Appear 2_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 310,
+          "w": 172,
+          "h": 151,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 2/Appear 2_0001.png",
+          "trimmedW": 172,
+          "trimmedH": 151,
+          "trimmedX": 88,
+          "trimmedY": 14,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 2/Break 2_0001_dup_Appear 2_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 203,
+          "y": 158,
+          "w": 180,
+          "h": 160,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 2/Appear 2_0000.png",
+          "trimmedW": 180,
+          "trimmedH": 160,
+          "trimmedX": 84,
+          "trimmedY": 11,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Break 3": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 3/Break 3_0000_dup_Appear 3_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 2,
+          "y": 465,
+          "w": 108,
+          "h": 174,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 3/Appear 3_0001.png",
+          "trimmedW": 108,
+          "trimmedH": 174,
+          "trimmedX": 87,
+          "trimmedY": 18,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 3/Break 3_0001_dup_Appear 3_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 178,
+          "y": 464,
+          "w": 109,
+          "h": 176,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 3/Appear 3_0000.png",
+          "trimmedW": 109,
+          "trimmedH": 176,
+          "trimmedX": 87,
+          "trimmedY": 18,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    },
+    "Break 4": {
+      "sprites": [
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 4/Break 4_0000_dup_Appear 4_0001.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 387,
+          "y": 189,
+          "w": 119,
+          "h": 195,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 4/Appear 4_0001.png",
+          "trimmedW": 119,
+          "trimmedH": 195,
+          "trimmedX": 90,
+          "trimmedY": 13,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        },
+        {
+          "name": "Hornet Revenge Crystal Anim/Break 4/Break 4_0001_dup_Appear 4_0000.png",
+          "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+          "x": 343,
+          "y": 388,
+          "w": 113,
+          "h": 190,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Hornet Revenge Crystal Anim/Appear 4/Appear 4_0000.png",
+          "trimmedW": 113,
+          "trimmedH": 190,
+          "trimmedX": 92,
+          "trimmedY": 12,
+          "untrimmedW": 295,
+          "untrimmedH": 223
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "536ae3a57b0c20943b3930a1eecf1003",
+      "atlasPath": "Atlases/Original/Collections/Hornet Revenge Crystal Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

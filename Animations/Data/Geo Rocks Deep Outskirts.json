@@ -1,0 +1,258 @@
+{
+  "animations": {
+    "Broken 1": {
+      "sprites": [
+        {
+          "name": "Geo Rocks Deep Outskirts/Broken 1/Broken 1_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 2,
+          "y": 438,
+          "w": 171,
+          "h": 86,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 171,
+          "trimmedH": 86,
+          "trimmedX": 12,
+          "trimmedY": 9,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "Broken 2": {
+      "sprites": [
+        {
+          "name": "Geo Rocks Deep Outskirts/Broken 2/Broken 2_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 330,
+          "y": 434,
+          "w": 168,
+          "h": 92,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 168,
+          "trimmedH": 92,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 168,
+          "untrimmedH": 149
+        }
+      ]
+    },
+    "Gleam 1": {
+      "sprites": [
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 346,
+          "y": 174,
+          "w": 160,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 160,
+          "trimmedH": 126,
+          "trimmedX": 18,
+          "trimmedY": 7,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0001.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 2,
+          "y": 308,
+          "w": 160,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 160,
+          "trimmedH": 126,
+          "trimmedX": 18,
+          "trimmedY": 7,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0002.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 346,
+          "y": 304,
+          "w": 160,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 160,
+          "trimmedH": 126,
+          "trimmedX": 18,
+          "trimmedY": 7,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0003.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 166,
+          "y": 308,
+          "w": 160,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 160,
+          "trimmedH": 126,
+          "trimmedX": 18,
+          "trimmedY": 7,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0004_dup_Gleam 1_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 346,
+          "y": 174,
+          "w": 160,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0000.png",
+          "trimmedW": 160,
+          "trimmedH": 126,
+          "trimmedX": 18,
+          "trimmedY": 7,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "Gleam 2": {
+      "sprites": [
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 2/Gleam 2_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 174,
+          "y": 155,
+          "w": 168,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 168,
+          "trimmedH": 149,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 168,
+          "untrimmedH": 149
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 2/Gleam 2_0001.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 174,
+          "y": 2,
+          "w": 168,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 168,
+          "trimmedH": 149,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 168,
+          "untrimmedH": 149
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 2/Gleam 2_0002.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 2,
+          "y": 155,
+          "w": 168,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 168,
+          "trimmedH": 149,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 168,
+          "untrimmedH": 149
+        },
+        {
+          "name": "Geo Rocks Deep Outskirts/Gleam 2/Gleam 2_0003.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 346,
+          "y": 2,
+          "w": 149,
+          "h": 168,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 168,
+          "trimmedH": 149,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 168,
+          "untrimmedH": 149
+        }
+      ]
+    },
+    "Idle 1": {
+      "sprites": [
+        {
+          "name": "Geo Rocks Deep Outskirts/Idle 1/Idle 1_0000_dup_Gleam 1_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 346,
+          "y": 174,
+          "w": 160,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Geo Rocks Deep Outskirts/Gleam 1/Gleam 1_0000.png",
+          "trimmedW": 160,
+          "trimmedH": 126,
+          "trimmedX": 18,
+          "trimmedY": 7,
+          "untrimmedW": 197,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "Idle 2": {
+      "sprites": [
+        {
+          "name": "Geo Rocks Deep Outskirts/Idle 2/Idle 2_0000.png",
+          "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+          "x": 2,
+          "y": 2,
+          "w": 168,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 168,
+          "trimmedH": 149,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 168,
+          "untrimmedH": 149
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "71f2fb5598ae154408dfcb9cceb44a54",
+      "atlasPath": "Atlases/Original/Collections/Geo_Rock_Deep_Outskirts Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

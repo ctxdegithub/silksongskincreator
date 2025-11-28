@@ -1,0 +1,271 @@
+{
+  "animations": {
+    "Barb Antic": {
+      "sprites": [
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Antic/Barb Antic_0000.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 622,
+          "y": 2,
+          "w": 186,
+          "h": 170,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 170,
+          "trimmedH": 186,
+          "trimmedX": 244,
+          "trimmedY": 229,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Antic/Barb Antic_0001.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 812,
+          "y": 2,
+          "w": 178,
+          "h": 170,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 170,
+          "trimmedH": 178,
+          "trimmedX": 240,
+          "trimmedY": 233,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        }
+      ]
+    },
+    "Barb Break": {
+      "sprites": [
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Break/Barb Break_0000.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 2,
+          "y": 595,
+          "w": 583,
+          "h": 556,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 556,
+          "trimmedH": 583,
+          "trimmedX": 52,
+          "trimmedY": 5,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        }
+      ]
+    },
+    "Barb Expand": {
+      "sprites": [
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Expand/Barb Expand_0000.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 789,
+          "y": 176,
+          "w": 153,
+          "h": 146,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 146,
+          "trimmedH": 153,
+          "trimmedX": 252,
+          "trimmedY": 245,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Expand/Barb Expand_0001.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 2,
+          "y": 2,
+          "w": 616,
+          "h": 589,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 616,
+          "trimmedH": 589,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Expand/Barb Expand_0002.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 2,
+          "y": 1155,
+          "w": 519,
+          "h": 566,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 519,
+          "trimmedH": 566,
+          "trimmedX": 82,
+          "trimmedY": 17,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Expand/Barb Expand_0003.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 525,
+          "y": 1155,
+          "w": 451,
+          "h": 506,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 451,
+          "trimmedH": 506,
+          "trimmedX": 104,
+          "trimmedY": 72,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        }
+      ]
+    },
+    "Barb Fly": {
+      "sprites": [
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Fly/Barb Fly_0000.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 622,
+          "y": 331,
+          "w": 132,
+          "h": 131,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 131,
+          "trimmedH": 132,
+          "trimmedX": 268,
+          "trimmedY": 255,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Fly/Barb Fly_0001.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 789,
+          "y": 326,
+          "w": 133,
+          "h": 131,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 131,
+          "trimmedH": 133,
+          "trimmedX": 274,
+          "trimmedY": 255,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Fly/Barb Fly_0002.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 758,
+          "y": 461,
+          "w": 131,
+          "h": 125,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 125,
+          "trimmedH": 131,
+          "trimmedX": 274,
+          "trimmedY": 258,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        }
+      ]
+    },
+    "Barb Set": {
+      "sprites": [
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Set/Barb Set_0000.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 622,
+          "y": 176,
+          "w": 163,
+          "h": 151,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 151,
+          "trimmedH": 163,
+          "trimmedX": 247,
+          "trimmedY": 232,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Set/Barb Set_0001.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 926,
+          "y": 326,
+          "w": 90,
+          "h": 103,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 103,
+          "trimmedH": 90,
+          "trimmedX": 277,
+          "trimmedY": 256,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Set/Barb Set_0002_dup_Barb Antic_0000.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 622,
+          "y": 2,
+          "w": 186,
+          "h": 170,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Bone Hunter Trapper Barb Anim/Barb Antic/Barb Antic_0000.png",
+          "trimmedW": 170,
+          "trimmedH": 186,
+          "trimmedX": 244,
+          "trimmedY": 229,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        },
+        {
+          "name": "Bone Hunter Trapper Barb Anim/Barb Set/Barb Set_0003_dup_Barb Antic_0001.png",
+          "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+          "x": 812,
+          "y": 2,
+          "w": 178,
+          "h": 170,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Bone Hunter Trapper Barb Anim/Barb Antic/Barb Antic_0001.png",
+          "trimmedW": 170,
+          "trimmedH": 178,
+          "trimmedX": 240,
+          "trimmedY": 233,
+          "untrimmedW": 661,
+          "untrimmedH": 622
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "f2c4edb8e4300564fac465a94a85af7e",
+      "atlasPath": "Atlases/Original/Collections/Bone Hunter Trapper Barb Cln Data/atlas0.png",
+      "width": 1024,
+      "height": 2048
+    }
+  ]
+}

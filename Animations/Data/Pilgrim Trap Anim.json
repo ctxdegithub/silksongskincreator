@@ -1,0 +1,233 @@
+{
+  "animations": {
+    "Wire Idle": {
+      "sprites": [
+        {
+          "name": "Pilgrim Trap Anim/Wire Idle/Wire Idle_0000.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 2,
+          "y": 430,
+          "w": 497,
+          "h": 31,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 31,
+          "trimmedH": 497,
+          "trimmedX": 19,
+          "trimmedY": 0,
+          "untrimmedW": 78,
+          "untrimmedH": 504
+        }
+      ]
+    },
+    "Wire Hit": {
+      "sprites": [
+        {
+          "name": "Pilgrim Trap Anim/Wire Hit/Wire Hit_0000.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 2,
+          "y": 276,
+          "w": 498,
+          "h": 36,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 36,
+          "trimmedH": 498,
+          "trimmedX": 26,
+          "trimmedY": 0,
+          "untrimmedW": 78,
+          "untrimmedH": 504
+        },
+        {
+          "name": "Pilgrim Trap Anim/Wire Hit/Wire Hit_0001.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 2,
+          "y": 394,
+          "w": 497,
+          "h": 32,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 32,
+          "trimmedH": 497,
+          "trimmedX": 13,
+          "trimmedY": 0,
+          "untrimmedW": 78,
+          "untrimmedH": 504
+        }
+      ]
+    },
+    "Spike Up": {
+      "sprites": [
+        {
+          "name": "Pilgrim Trap Anim/Spike Up/Spike Up_0000.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 126,
+          "y": 147,
+          "w": 27,
+          "h": 45,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 45,
+          "trimmedH": 27,
+          "trimmedX": 94,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Up/Spike Up_0001.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 2,
+          "y": 147,
+          "w": 120,
+          "h": 87,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 120,
+          "trimmedH": 87,
+          "trimmedX": 37,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Up/Spike Up_0002.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 172,
+          "y": 139,
+          "w": 153,
+          "h": 133,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 153,
+          "trimmedH": 133,
+          "trimmedX": 11,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Up/Spike Up_0003.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 2,
+          "y": 2,
+          "w": 166,
+          "h": 141,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 166,
+          "trimmedH": 141,
+          "trimmedX": 17,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Up/Spike Up_0004.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 337,
+          "y": 2,
+          "w": 161,
+          "h": 133,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 161,
+          "trimmedH": 133,
+          "trimmedX": 18,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Up/Spike Up_0005.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 172,
+          "y": 2,
+          "w": 161,
+          "h": 133,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 161,
+          "trimmedH": 133,
+          "trimmedX": 18,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        }
+      ]
+    },
+    "Spike Down": {
+      "sprites": [
+        {
+          "name": "Pilgrim Trap Anim/Spike Down/Spike Down_0000_dup_Spike Up_0002.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 172,
+          "y": 139,
+          "w": 153,
+          "h": 133,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Pilgrim Trap Anim/Spike Up/Spike Up_0002.png",
+          "trimmedW": 153,
+          "trimmedH": 133,
+          "trimmedX": 11,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Down/Spike Down_0001_dup_Spike Up_0001.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 2,
+          "y": 147,
+          "w": 120,
+          "h": 87,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Pilgrim Trap Anim/Spike Up/Spike Up_0001.png",
+          "trimmedW": 120,
+          "trimmedH": 87,
+          "trimmedX": 37,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        },
+        {
+          "name": "Pilgrim Trap Anim/Spike Down/Spike Down_0002_dup_Spike Up_0000.png",
+          "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+          "x": 126,
+          "y": 147,
+          "w": 27,
+          "h": 45,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Pilgrim Trap Anim/Spike Up/Spike Up_0000.png",
+          "trimmedW": 45,
+          "trimmedH": 27,
+          "trimmedX": 94,
+          "trimmedY": 0,
+          "untrimmedW": 187,
+          "untrimmedH": 147
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "88f6cb1b60b4b594c8dff5906c9ac9ed",
+      "atlasPath": "Atlases/Original/Collections/Pilgrim Trap Cln Data/atlas0.png",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

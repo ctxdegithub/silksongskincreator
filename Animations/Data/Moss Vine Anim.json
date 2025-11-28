@@ -1,0 +1,372 @@
+{
+  "animations": {
+    "Thick Idle": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Thick Idle/Thick Idle_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 476,
+          "y": 714,
+          "w": 482,
+          "h": 229,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 229,
+          "trimmedH": 482,
+          "trimmedX": 6,
+          "trimmedY": 3,
+          "untrimmedW": 243,
+          "untrimmedH": 487
+        }
+      ]
+    },
+    "Thick Hit": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Thick Hit/Thick Hit_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 239,
+          "y": 249,
+          "w": 233,
+          "h": 482,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 233,
+          "trimmedH": 482,
+          "trimmedX": 9,
+          "trimmedY": 3,
+          "untrimmedW": 243,
+          "untrimmedH": 487
+        },
+        {
+          "name": "Moss Vine Anim/Thick Hit/Thick Hit_0001.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 476,
+          "y": 478,
+          "w": 482,
+          "h": 232,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 232,
+          "trimmedH": 482,
+          "trimmedX": 3,
+          "trimmedY": 3,
+          "untrimmedW": 243,
+          "untrimmedH": 487
+        },
+        {
+          "name": "Moss Vine Anim/Thick Hit/Thick Hit_0002_dup_Thick Idle_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 476,
+          "y": 714,
+          "w": 482,
+          "h": 229,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Moss Vine Anim/Thick Idle/Thick Idle_0000.png",
+          "trimmedW": 229,
+          "trimmedH": 482,
+          "trimmedX": 6,
+          "trimmedY": 3,
+          "untrimmedW": 243,
+          "untrimmedH": 487
+        }
+      ]
+    },
+    "Thick Snap": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Thick Snap/Thick Snap_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 2,
+          "y": 2,
+          "w": 485,
+          "h": 243,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 243,
+          "trimmedH": 485,
+          "trimmedX": 0,
+          "trimmedY": 2,
+          "untrimmedW": 243,
+          "untrimmedH": 487
+        },
+        {
+          "name": "Moss Vine Anim/Thick Snap/Thick Snap_0001.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 470,
+          "y": 947,
+          "w": 486,
+          "h": 223,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 223,
+          "trimmedH": 486,
+          "trimmedX": 12,
+          "trimmedY": 0,
+          "untrimmedW": 243,
+          "untrimmedH": 487
+        }
+      ]
+    },
+    "Standard Idle": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Standard Idle/Standard Idle_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 2,
+          "y": 249,
+          "w": 233,
+          "h": 486,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 233,
+          "trimmedH": 486,
+          "trimmedX": 2,
+          "trimmedY": 4,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        }
+      ]
+    },
+    "Standard Hit": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Standard Hit/Standard Hit_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 239,
+          "y": 735,
+          "w": 227,
+          "h": 486,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 227,
+          "trimmedH": 486,
+          "trimmedX": 8,
+          "trimmedY": 4,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        },
+        {
+          "name": "Moss Vine Anim/Standard Hit/Standard Hit_0001.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 491,
+          "y": 2,
+          "w": 486,
+          "h": 235,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 235,
+          "trimmedH": 486,
+          "trimmedX": 0,
+          "trimmedY": 4,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        },
+        {
+          "name": "Moss Vine Anim/Standard Hit/Standard Hit_0002_dup_Standard Idle_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 2,
+          "y": 249,
+          "w": 233,
+          "h": 486,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Moss Vine Anim/Standard Idle/Standard Idle_0000.png",
+          "trimmedW": 233,
+          "trimmedH": 486,
+          "trimmedX": 2,
+          "trimmedY": 4,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        }
+      ]
+    },
+    "Standard Snap": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Standard Snap/Standard Snap_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 491,
+          "y": 241,
+          "w": 490,
+          "h": 233,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 233,
+          "trimmedH": 490,
+          "trimmedX": 2,
+          "trimmedY": 0,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        },
+        {
+          "name": "Moss Vine Anim/Standard Snap/Standard Snap_0001.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 470,
+          "y": 1174,
+          "w": 487,
+          "h": 219,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 219,
+          "trimmedH": 487,
+          "trimmedX": 16,
+          "trimmedY": 3,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        },
+        {
+          "name": "Moss Vine Anim/Standard Snap/Standard Snap_0002.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 2,
+          "y": 739,
+          "w": 226,
+          "h": 486,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 226,
+          "trimmedH": 486,
+          "trimmedX": 9,
+          "trimmedY": 4,
+          "untrimmedW": 235,
+          "untrimmedH": 490
+        }
+      ]
+    },
+    "Twirl Idle": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Twirl Idle/Twirl Idle_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 348,
+          "y": 1720,
+          "w": 488,
+          "h": 109,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 109,
+          "trimmedH": 488,
+          "trimmedX": 1,
+          "trimmedY": 2,
+          "untrimmedW": 114,
+          "untrimmedH": 492
+        }
+      ]
+    },
+    "Twirl Hit": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Twirl Hit/Twirl Hit_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 2,
+          "y": 1229,
+          "w": 111,
+          "h": 488,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 111,
+          "trimmedH": 488,
+          "trimmedX": 1,
+          "trimmedY": 2,
+          "untrimmedW": 114,
+          "untrimmedH": 492
+        },
+        {
+          "name": "Moss Vine Anim/Twirl Hit/Twirl Hit_0001.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 117,
+          "y": 1229,
+          "w": 110,
+          "h": 488,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 110,
+          "trimmedH": 488,
+          "trimmedX": 0,
+          "trimmedY": 2,
+          "untrimmedW": 114,
+          "untrimmedH": 492
+        },
+        {
+          "name": "Moss Vine Anim/Twirl Hit/Twirl Hit_0002_dup_Twirl Idle_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 348,
+          "y": 1720,
+          "w": 488,
+          "h": 109,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Moss Vine Anim/Twirl Idle/Twirl Idle_0000.png",
+          "trimmedW": 109,
+          "trimmedH": 488,
+          "trimmedX": 1,
+          "trimmedY": 2,
+          "untrimmedW": 114,
+          "untrimmedH": 492
+        }
+      ]
+    },
+    "Twirl Snap": {
+      "sprites": [
+        {
+          "name": "Moss Vine Anim/Twirl Snap/Twirl Snap_0000.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 232,
+          "y": 1225,
+          "w": 112,
+          "h": 492,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 112,
+          "trimmedH": 492,
+          "trimmedX": 2,
+          "trimmedY": 0,
+          "untrimmedW": 114,
+          "untrimmedH": 492
+        },
+        {
+          "name": "Moss Vine Anim/Twirl Snap/Twirl Snap_0001.png",
+          "atlasGUID": "9b4551b00b3303240b356478a1633441",
+          "x": 348,
+          "y": 1225,
+          "w": 111,
+          "h": 491,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 111,
+          "trimmedH": 491,
+          "trimmedX": 1,
+          "trimmedY": 0,
+          "untrimmedW": 114,
+          "untrimmedH": 492
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "9b4551b00b3303240b356478a1633441",
+      "atlasPath": "Atlases/Original/Collections/Moss Vine Cln Data/atlas0.png",
+      "width": 1024,
+      "height": 2048
+    }
+  ]
+}

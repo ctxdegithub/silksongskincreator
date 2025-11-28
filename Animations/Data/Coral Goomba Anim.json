@@ -1,0 +1,841 @@
+{
+  "animations": {
+    "L Rest": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Rest/L Rest_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 145,
+          "y": 282,
+          "w": 116,
+          "h": 127,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 116,
+          "trimmedH": 127,
+          "trimmedX": 21,
+          "trimmedY": 1,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "M Rest": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Rest/M Rest_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 84,
+          "y": 532,
+          "w": 160,
+          "h": 76,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 76,
+          "trimmedH": 160,
+          "trimmedX": 42,
+          "trimmedY": 6,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        }
+      ]
+    },
+    "L Sing": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Sing/L Sing_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 360,
+          "w": 126,
+          "h": 114,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 114,
+          "trimmedH": 126,
+          "trimmedX": 19,
+          "trimmedY": 0,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Coral Goomba Anim/L Sing/L Sing_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 393,
+          "y": 436,
+          "w": 115,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 115,
+          "trimmedH": 126,
+          "trimmedX": 20,
+          "trimmedY": 0,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Coral Goomba Anim/L Sing/L Sing_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 132,
+          "y": 413,
+          "w": 124,
+          "h": 115,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 115,
+          "trimmedH": 124,
+          "trimmedX": 20,
+          "trimmedY": 0,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "M Sing": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Sing/M Sing_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 341,
+          "y": 566,
+          "w": 162,
+          "h": 78,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 78,
+          "trimmedH": 162,
+          "trimmedX": 40,
+          "trimmedY": 4,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        },
+        {
+          "name": "Coral Goomba Anim/M Sing/M Sing_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 341,
+          "y": 648,
+          "w": 160,
+          "h": 77,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 77,
+          "trimmedH": 160,
+          "trimmedX": 42,
+          "trimmedY": 6,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        },
+        {
+          "name": "Coral Goomba Anim/M Sing/M Sing_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 84,
+          "y": 612,
+          "w": 157,
+          "h": 76,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 76,
+          "trimmedH": 157,
+          "trimmedX": 42,
+          "trimmedY": 3,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        }
+      ]
+    },
+    "L Crawl": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Crawl/L Crawl_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 114,
+          "w": 135,
+          "h": 121,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 121,
+          "trimmedH": 135,
+          "trimmedX": 14,
+          "trimmedY": 4,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Coral Goomba Anim/L Crawl/L Crawl_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 271,
+          "y": 264,
+          "w": 135,
+          "h": 118,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 118,
+          "trimmedH": 135,
+          "trimmedX": 18,
+          "trimmedY": 5,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Coral Goomba Anim/L Crawl/L Crawl_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 239,
+          "w": 139,
+          "h": 117,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 117,
+          "trimmedH": 139,
+          "trimmedX": 20,
+          "trimmedY": 4,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "M Crawl": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Crawl/M Crawl_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 410,
+          "y": 264,
+          "w": 79,
+          "h": 168,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 79,
+          "trimmedH": 168,
+          "trimmedX": 40,
+          "trimmedY": 9,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        },
+        {
+          "name": "Coral Goomba Anim/M Crawl/M Crawl_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 478,
+          "w": 78,
+          "h": 166,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 78,
+          "trimmedH": 166,
+          "trimmedX": 40,
+          "trimmedY": 7,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        },
+        {
+          "name": "Coral Goomba Anim/M Crawl/M Crawl_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 260,
+          "y": 513,
+          "w": 77,
+          "h": 170,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 77,
+          "trimmedH": 170,
+          "trimmedX": 45,
+          "trimmedY": 7,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        }
+      ]
+    },
+    "L Death": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Death/L Death_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 336,
+          "y": 2,
+          "w": 132,
+          "h": 128,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 128,
+          "trimmedH": 132,
+          "trimmedX": 9,
+          "trimmedY": 0,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Coral Goomba Anim/L Death/L Death_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 333,
+          "y": 134,
+          "w": 128,
+          "h": 126,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 128,
+          "trimmedH": 126,
+          "trimmedX": 13,
+          "trimmedY": 14,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        },
+        {
+          "name": "Coral Goomba Anim/L Death/L Death_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 265,
+          "y": 386,
+          "w": 124,
+          "h": 123,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 124,
+          "trimmedH": 123,
+          "trimmedX": 9,
+          "trimmedY": 8,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "M Death": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Death/M Death_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 168,
+          "y": 2,
+          "w": 164,
+          "h": 106,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 106,
+          "trimmedH": 164,
+          "trimmedX": 21,
+          "trimmedY": 5,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        },
+        {
+          "name": "Coral Goomba Anim/M Death/M Death_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 168,
+          "y": 112,
+          "w": 99,
+          "h": 166,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 99,
+          "trimmedH": 166,
+          "trimmedX": 27,
+          "trimmedY": 2,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        },
+        {
+          "name": "Coral Goomba Anim/M Death/M Death_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 2,
+          "w": 162,
+          "h": 108,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 108,
+          "trimmedH": 162,
+          "trimmedX": 17,
+          "trimmedY": 6,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        }
+      ]
+    },
+    "L Idle": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Idle/L Idle_0000_dup_L Crawl_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 271,
+          "y": 264,
+          "w": 135,
+          "h": 118,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Coral Goomba Anim/L Crawl/L Crawl_0001.png",
+          "trimmedW": 118,
+          "trimmedH": 135,
+          "trimmedX": 18,
+          "trimmedY": 5,
+          "untrimmedW": 156,
+          "untrimmedH": 152
+        }
+      ]
+    },
+    "M Idle": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Idle/M Idle_0000_dup_M Crawl_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 478,
+          "w": 78,
+          "h": 166,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Coral Goomba Anim/M Crawl/M Crawl_0001.png",
+          "trimmedW": 78,
+          "trimmedH": 166,
+          "trimmedX": 40,
+          "trimmedY": 7,
+          "untrimmedW": 155,
+          "untrimmedH": 187
+        }
+      ]
+    },
+    "M Inner Fling Air": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Inner Fling Air/M Inner Fling Air_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 938,
+          "w": 63,
+          "h": 78,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 63,
+          "trimmedH": 78,
+          "trimmedX": 24,
+          "trimmedY": 30,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        },
+        {
+          "name": "Coral Goomba Anim/M Inner Fling Air/M Inner Fling Air_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 320,
+          "y": 892,
+          "w": 79,
+          "h": 68,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 79,
+          "trimmedH": 68,
+          "trimmedX": 13,
+          "trimmedY": 26,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        },
+        {
+          "name": "Coral Goomba Anim/M Inner Fling Air/M Inner Fling Air_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 417,
+          "y": 826,
+          "w": 77,
+          "h": 72,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 72,
+          "trimmedH": 77,
+          "trimmedX": 20,
+          "trimmedY": 21,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        },
+        {
+          "name": "Coral Goomba Anim/M Inner Fling Air/M Inner Fling Air_0003.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 237,
+          "y": 933,
+          "w": 76,
+          "h": 70,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 76,
+          "trimmedH": 70,
+          "trimmedX": 24,
+          "trimmedY": 26,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        }
+      ]
+    },
+    "M Inner Fling Land": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Inner Fling Land/M Inner Fling Land_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 245,
+          "y": 687,
+          "w": 85,
+          "h": 83,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 85,
+          "trimmedH": 83,
+          "trimmedX": 14,
+          "trimmedY": 19,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        }
+      ]
+    },
+    "M Inner Run": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Inner Run/M Inner Run_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 84,
+          "y": 692,
+          "w": 103,
+          "h": 65,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 65,
+          "trimmedH": 103,
+          "trimmedX": 19,
+          "trimmedY": 18,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        },
+        {
+          "name": "Coral Goomba Anim/M Inner Run/M Inner Run_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 840,
+          "w": 64,
+          "h": 94,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 64,
+          "trimmedH": 94,
+          "trimmedX": 21,
+          "trimmedY": 18,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        },
+        {
+          "name": "Coral Goomba Anim/M Inner Run/M Inner Run_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 740,
+          "w": 69,
+          "h": 96,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 69,
+          "trimmedH": 96,
+          "trimmedX": 17,
+          "trimmedY": 21,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        }
+      ]
+    },
+    "M Inner Bump": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Inner Bump/M Inner Bump_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 70,
+          "y": 842,
+          "w": 89,
+          "h": 73,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 73,
+          "trimmedH": 89,
+          "trimmedX": 22,
+          "trimmedY": 24,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        },
+        {
+          "name": "Coral Goomba Anim/M Inner Bump/M Inner Bump_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 164,
+          "y": 761,
+          "w": 75,
+          "h": 87,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 75,
+          "trimmedH": 87,
+          "trimmedX": 17,
+          "trimmedY": 25,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        }
+      ]
+    },
+    "L Inner Fling Air": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Inner Fling Air/L Inner Fling Air_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 332,
+          "y": 814,
+          "w": 81,
+          "h": 74,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 81,
+          "trimmedH": 74,
+          "trimmedX": 46,
+          "trimmedY": 38,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        },
+        {
+          "name": "Coral Goomba Anim/L Inner Fling Air/L Inner Fling Air_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 237,
+          "y": 854,
+          "w": 79,
+          "h": 75,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 75,
+          "trimmedH": 79,
+          "trimmedX": 46,
+          "trimmedY": 34,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        },
+        {
+          "name": "Coral Goomba Anim/L Inner Fling Air/L Inner Fling Air_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 70,
+          "y": 919,
+          "w": 81,
+          "h": 75,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 81,
+          "trimmedH": 75,
+          "trimmedX": 47,
+          "trimmedY": 34,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        },
+        {
+          "name": "Coral Goomba Anim/L Inner Fling Air/L Inner Fling Air_0003.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 243,
+          "y": 774,
+          "w": 85,
+          "h": 76,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 76,
+          "trimmedH": 85,
+          "trimmedX": 48,
+          "trimmedY": 28,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        }
+      ]
+    },
+    "L Inner Fling Land": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Inner Fling Land/L Inner Fling Land_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 271,
+          "y": 112,
+          "w": 58,
+          "h": 102,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 102,
+          "trimmedH": 58,
+          "trimmedX": 32,
+          "trimmedY": 35,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        }
+      ]
+    },
+    "L Inner Run": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Inner Run/L Inner Run_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 334,
+          "y": 729,
+          "w": 85,
+          "h": 81,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 85,
+          "trimmedH": 81,
+          "trimmedX": 43,
+          "trimmedY": 34,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        },
+        {
+          "name": "Coral Goomba Anim/L Inner Run/L Inner Run_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 163,
+          "y": 852,
+          "w": 70,
+          "h": 91,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 91,
+          "trimmedH": 70,
+          "trimmedX": 45,
+          "trimmedY": 33,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        },
+        {
+          "name": "Coral Goomba Anim/L Inner Run/L Inner Run_0002.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 75,
+          "y": 761,
+          "w": 85,
+          "h": 77,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 77,
+          "trimmedH": 85,
+          "trimmedX": 46,
+          "trimmedY": 32,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        }
+      ]
+    },
+    "L Inner Bump": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Inner Bump/L Inner Bump_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 2,
+          "y": 648,
+          "w": 78,
+          "h": 88,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 88,
+          "trimmedH": 78,
+          "trimmedX": 35,
+          "trimmedY": 36,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        },
+        {
+          "name": "Coral Goomba Anim/L Inner Bump/L Inner Bump_0001.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 423,
+          "y": 729,
+          "w": 73,
+          "h": 93,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 93,
+          "trimmedH": 73,
+          "trimmedX": 31,
+          "trimmedY": 41,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        }
+      ]
+    },
+    "L Inner Idle": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/L Inner Idle/L Inner Idle_0000_dup_L Inner Run_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 334,
+          "y": 729,
+          "w": 85,
+          "h": 81,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Coral Goomba Anim/L Inner Run/L Inner Run_0000.png",
+          "trimmedW": 85,
+          "trimmedH": 81,
+          "trimmedX": 43,
+          "trimmedY": 34,
+          "untrimmedW": 174,
+          "untrimmedH": 169
+        }
+      ]
+    },
+    "M Inner Idle": {
+      "sprites": [
+        {
+          "name": "Coral Goomba Anim/M Inner Idle/M Inner Idle_0000_dup_M Inner Run_0000.png",
+          "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+          "x": 84,
+          "y": 692,
+          "w": 103,
+          "h": 65,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Coral Goomba Anim/M Inner Run/M Inner Run_0000.png",
+          "trimmedW": 65,
+          "trimmedH": 103,
+          "trimmedX": 19,
+          "trimmedY": 18,
+          "untrimmedW": 109,
+          "untrimmedH": 156
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "2d1f579dea0d6494e8fcf052dfbbd12a",
+      "atlasPath": "Atlases/Original/Collections/Coral Goomba Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

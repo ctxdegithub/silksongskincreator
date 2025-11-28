@@ -1,0 +1,223 @@
+{
+  "animations": {
+    "Burst": {
+      "sprites": [
+        {
+          "name": "City Shard Chest Anim/Burst/Burst_0000_dup_Burst_0000.png",
+          "atlasGUID": "5fd2ad992cd474e478160af0b0facc31",
+          "x": 296,
+          "y": 791,
+          "w": 179,
+          "h": 171,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Chest Anim/Burst/Burst_0000.png",
+          "trimmedW": 179,
+          "trimmedH": 171,
+          "trimmedX": 171,
+          "trimmedY": 189,
+          "untrimmedW": 521,
+          "untrimmedH": 523
+        },
+        {
+          "name": "City Shard Chest Anim/Burst/Burst_0001_dup_Burst_0001.png",
+          "atlasGUID": "5fd2ad992cd474e478160af0b0facc31",
+          "x": 2,
+          "y": 451,
+          "w": 320,
+          "h": 336,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Chest Anim/Burst/Burst_0001.png",
+          "trimmedW": 320,
+          "trimmedH": 336,
+          "trimmedX": 97,
+          "trimmedY": 109,
+          "untrimmedW": 521,
+          "untrimmedH": 523
+        },
+        {
+          "name": "City Shard Chest Anim/Burst/Burst_0002_dup_Burst_0002.png",
+          "atlasGUID": "5fd2ad992cd474e478160af0b0facc31",
+          "x": 480,
+          "y": 417,
+          "w": 391,
+          "h": 382,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Chest Anim/Burst/Burst_0002.png",
+          "trimmedW": 382,
+          "trimmedH": 391,
+          "trimmedX": 65,
+          "trimmedY": 81,
+          "untrimmedW": 521,
+          "untrimmedH": 523
+        },
+        {
+          "name": "City Shard Chest Anim/Burst/Burst_0003_dup_Burst_0003.png",
+          "atlasGUID": "5fd2ad992cd474e478160af0b0facc31",
+          "x": 2,
+          "y": 2,
+          "w": 474,
+          "h": 445,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Chest Anim/Burst/Burst_0003.png",
+          "trimmedW": 474,
+          "trimmedH": 445,
+          "trimmedX": 16,
+          "trimmedY": 58,
+          "untrimmedW": 521,
+          "untrimmedH": 523
+        },
+        {
+          "name": "City Shard Chest Anim/Burst/Burst_0004_dup_Burst_0004.png",
+          "atlasGUID": "5fd2ad992cd474e478160af0b0facc31",
+          "x": 480,
+          "y": 2,
+          "w": 423,
+          "h": 411,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Chest Anim/Burst/Burst_0004.png",
+          "trimmedW": 423,
+          "trimmedH": 411,
+          "trimmedX": 43,
+          "trimmedY": 67,
+          "untrimmedW": 521,
+          "untrimmedH": 523
+        }
+      ]
+    },
+    "Idle": {
+      "sprites": [
+        {
+          "name": "City Shard Chest Anim/Idle/Idle_0000.png",
+          "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+          "x": 287,
+          "y": 2,
+          "w": 189,
+          "h": 252,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 252,
+          "trimmedH": 189,
+          "trimmedX": 101,
+          "trimmedY": 125,
+          "untrimmedW": 471,
+          "untrimmedH": 503
+        }
+      ]
+    },
+    "Open": {
+      "sprites": [
+        {
+          "name": "City Shard Chest Anim/Open/Open_0000.png",
+          "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+          "x": 287,
+          "y": 258,
+          "w": 188,
+          "h": 253,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 253,
+          "trimmedH": 188,
+          "trimmedX": 101,
+          "trimmedY": 122,
+          "untrimmedW": 471,
+          "untrimmedH": 503
+        },
+        {
+          "name": "City Shard Chest Anim/Open/Open_0001.png",
+          "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+          "x": 2,
+          "y": 2,
+          "w": 281,
+          "h": 253,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 253,
+          "trimmedH": 281,
+          "trimmedX": 101,
+          "trimmedY": 124,
+          "untrimmedW": 471,
+          "untrimmedH": 503
+        },
+        {
+          "name": "City Shard Chest Anim/Open/Open_0002.png",
+          "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+          "x": 2,
+          "y": 259,
+          "w": 260,
+          "h": 253,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 253,
+          "trimmedH": 260,
+          "trimmedX": 101,
+          "trimmedY": 122,
+          "untrimmedW": 471,
+          "untrimmedH": 503
+        },
+        {
+          "name": "City Shard Chest Anim/Open/Open_0003.png",
+          "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+          "x": 266,
+          "y": 515,
+          "w": 240,
+          "h": 252,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 252,
+          "trimmedH": 240,
+          "trimmedX": 101,
+          "trimmedY": 125,
+          "untrimmedW": 471,
+          "untrimmedH": 503
+        }
+      ]
+    },
+    "Opened": {
+      "sprites": [
+        {
+          "name": "City Shard Chest Anim/Opened/Opened_0000.png",
+          "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+          "x": 2,
+          "y": 771,
+          "w": 252,
+          "h": 151,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 252,
+          "trimmedH": 151,
+          "trimmedX": 101,
+          "trimmedY": 125,
+          "untrimmedW": 471,
+          "untrimmedH": 503
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "5fd2ad992cd474e478160af0b0facc31",
+      "atlasPath": "Atlases/Original/Collections/Chest Data/atlas0.png",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "04bd5ac2aafe448409932edca82bc3e2",
+      "atlasPath": "Atlases/Original/Collections/City Shard Chest Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

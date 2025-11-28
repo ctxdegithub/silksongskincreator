@@ -1,0 +1,119 @@
+{
+  "animations": {
+    "Fury Aura": {
+      "sprites": [
+        {
+          "name": "Charm Effect Anim/Fury Aura/Fury Aura_0000.png",
+          "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+          "x": 2,
+          "y": 346,
+          "w": 115,
+          "h": 146,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 146,
+          "trimmedH": 115,
+          "trimmedX": 35,
+          "trimmedY": 1,
+          "untrimmedW": 198,
+          "untrimmedH": 144
+        },
+        {
+          "name": "Charm Effect Anim/Fury Aura/Fury Aura_0001.png",
+          "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+          "x": 350,
+          "y": 132,
+          "w": 110,
+          "h": 179,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 110,
+          "trimmedX": 12,
+          "trimmedY": 6,
+          "untrimmedW": 198,
+          "untrimmedH": 144
+        },
+        {
+          "name": "Charm Effect Anim/Fury Aura/Fury Aura_0002.png",
+          "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+          "x": 2,
+          "y": 144,
+          "w": 118,
+          "h": 198,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 198,
+          "trimmedH": 118,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 198,
+          "untrimmedH": 144
+        },
+        {
+          "name": "Charm Effect Anim/Fury Aura/Fury Aura_0003.png",
+          "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+          "x": 124,
+          "y": 315,
+          "w": 124,
+          "h": 157,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 157,
+          "trimmedH": 124,
+          "trimmedX": 21,
+          "trimmedY": 2,
+          "untrimmedW": 198,
+          "untrimmedH": 144
+        },
+        {
+          "name": "Charm Effect Anim/Fury Aura/Fury Aura_0004.png",
+          "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+          "x": 179,
+          "y": 2,
+          "w": 167,
+          "h": 141,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 167,
+          "trimmedH": 141,
+          "trimmedX": 14,
+          "trimmedY": 3,
+          "untrimmedW": 198,
+          "untrimmedH": 144
+        },
+        {
+          "name": "Charm Effect Anim/Fury Aura/Fury Aura_0005.png",
+          "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+          "x": 2,
+          "y": 2,
+          "w": 173,
+          "h": 138,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 173,
+          "trimmedH": 138,
+          "trimmedX": 13,
+          "trimmedY": 4,
+          "untrimmedW": 198,
+          "untrimmedH": 144
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "612612a8fe2f3c641bd2c28d89ec6bc4",
+      "atlasPath": "Atlases/Original/Collections/Charm Effects Cln Data/atlas0.png",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

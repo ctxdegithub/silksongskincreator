@@ -1,0 +1,102 @@
+{
+  "animations": {
+    "Tall": {
+      "sprites": [
+        {
+          "name": "Bell Wall Anim/Tall/Tall_0000.png",
+          "atlasGUID": "b8bdb8c74c5f0904099bdb3a5aa5a4ca",
+          "x": 2,
+          "y": 542,
+          "w": 562,
+          "h": 348,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 348,
+          "trimmedH": 562,
+          "trimmedX": 46,
+          "trimmedY": 14,
+          "untrimmedW": 424,
+          "untrimmedH": 623
+        },
+        {
+          "name": "Bell Wall Anim/Tall/Tall_0001.png",
+          "atlasGUID": "b8bdb8c74c5f0904099bdb3a5aa5a4ca",
+          "x": 363,
+          "y": 2,
+          "w": 547,
+          "h": 354,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 354,
+          "trimmedH": 547,
+          "trimmedX": 33,
+          "trimmedY": 19,
+          "untrimmedW": 424,
+          "untrimmedH": 623
+        },
+        {
+          "name": "Bell Wall Anim/Tall/Tall_0002.png",
+          "atlasGUID": "b8bdb8c74c5f0904099bdb3a5aa5a4ca",
+          "x": 2,
+          "y": 2,
+          "w": 357,
+          "h": 536,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 357,
+          "trimmedH": 536,
+          "trimmedX": 40,
+          "trimmedY": 24,
+          "untrimmedW": 424,
+          "untrimmedH": 623
+        },
+        {
+          "name": "Bell Wall Anim/Tall/Tall_0003.png",
+          "atlasGUID": "b8bdb8c74c5f0904099bdb3a5aa5a4ca",
+          "x": 568,
+          "y": 360,
+          "w": 350,
+          "h": 556,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 350,
+          "trimmedH": 556,
+          "trimmedX": 44,
+          "trimmedY": 19,
+          "untrimmedW": 424,
+          "untrimmedH": 623
+        },
+        {
+          "name": "Bell Wall Anim/Tall/Tall_0004_dup_Tall_0000.png",
+          "atlasGUID": "b8bdb8c74c5f0904099bdb3a5aa5a4ca",
+          "x": 2,
+          "y": 542,
+          "w": 562,
+          "h": 348,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Bell Wall Anim/Tall/Tall_0000.png",
+          "trimmedW": 348,
+          "trimmedH": 562,
+          "trimmedX": 46,
+          "trimmedY": 14,
+          "untrimmedW": 424,
+          "untrimmedH": 623
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "b8bdb8c74c5f0904099bdb3a5aa5a4ca",
+      "atlasPath": "Atlases/Original/Collections/Bell Wall Cln Data/atlas0.png",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "animations": {
+    "Fly": {
+      "sprites": [
+        {
+          "name": "Wisp Bounce Pod Anim/Fly/Fly_0000.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 102,
+          "w": 130,
+          "h": 92,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 92,
+          "trimmedH": 130,
+          "trimmedX": 18,
+          "trimmedY": 25,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Hit": {
+      "sprites": [
+        {
+          "name": "Wisp Bounce Pod Anim/Hit/Hit_0000.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 2,
+          "w": 133,
+          "h": 96,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 96,
+          "trimmedH": 133,
+          "trimmedX": 6,
+          "trimmedY": 26,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Wisp Bounce Pod Anim/Hit/Hit_0001.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 198,
+          "w": 125,
+          "h": 90,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 90,
+          "trimmedH": 125,
+          "trimmedX": 26,
+          "trimmedY": 28,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Wisp Bounce Pod Anim/Hit/Hit_0002_dup_Fly_0000.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 102,
+          "w": 130,
+          "h": 92,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Wisp Bounce Pod Anim/Fly/Fly_0000.png",
+          "trimmedW": 92,
+          "trimmedH": 130,
+          "trimmedX": 18,
+          "trimmedY": 25,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Wound": {
+      "sprites": [
+        {
+          "name": "Wisp Bounce Pod Anim/Wound/Wound_0000.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 136,
+          "y": 140,
+          "w": 94,
+          "h": 125,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 94,
+          "trimmedH": 125,
+          "trimmedX": 22,
+          "trimmedY": 14,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Wisp Bounce Pod Anim/Wound/Wound_0001.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 139,
+          "y": 2,
+          "w": 90,
+          "h": 134,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 90,
+          "trimmedH": 134,
+          "trimmedX": 16,
+          "trimmedY": 7,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Wisp Bounce Pod Anim/Wound/Wound_0002_dup_Hit_0000.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 2,
+          "w": 133,
+          "h": 96,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Wisp Bounce Pod Anim/Hit/Hit_0000.png",
+          "trimmedW": 96,
+          "trimmedH": 133,
+          "trimmedX": 6,
+          "trimmedY": 26,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Wisp Bounce Pod Anim/Wound/Wound_0003_dup_Hit_0001.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 198,
+          "w": 125,
+          "h": 90,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Wisp Bounce Pod Anim/Hit/Hit_0001.png",
+          "trimmedW": 90,
+          "trimmedH": 125,
+          "trimmedX": 26,
+          "trimmedY": 28,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Wisp Bounce Pod Anim/Wound/Wound_0004_dup_Fly_0000.png",
+          "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+          "x": 2,
+          "y": 102,
+          "w": 130,
+          "h": 92,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Wisp Bounce Pod Anim/Fly/Fly_0000.png",
+          "trimmedW": 92,
+          "trimmedH": 130,
+          "trimmedX": 18,
+          "trimmedY": 25,
+          "untrimmedW": 126,
+          "untrimmedH": 194
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "27a26247f2d4d0c488fe69ff224dad39",
+      "atlasPath": "Atlases/Original/Collections/Wisp Bounce Pod Cln Data/atlas0.png",
+      "width": 256,
+      "height": 512
+    }
+  ]
+}

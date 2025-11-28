@@ -1,0 +1,372 @@
+{
+  "animations": {
+    "Idle 1": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Idle 1/Idle 1_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 304,
+          "y": 855,
+          "w": 147,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 149,
+          "trimmedX": 33,
+          "trimmedY": 16,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Gleam 1": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Gleam 1/Gleam 1_0000_dup_Idle 1_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 304,
+          "y": 855,
+          "w": 147,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Coin Rocks/Idle 1/Idle 1_0000.png",
+          "trimmedW": 147,
+          "trimmedH": 149,
+          "trimmedX": 33,
+          "trimmedY": 16,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 1/Gleam 1_0001.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 697,
+          "w": 149,
+          "h": 147,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 149,
+          "trimmedX": 33,
+          "trimmedY": 16,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 1/Gleam 1_0002.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 848,
+          "w": 147,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 149,
+          "trimmedX": 33,
+          "trimmedY": 16,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 1/Gleam 1_0003.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 153,
+          "y": 855,
+          "w": 147,
+          "h": 149,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 149,
+          "trimmedX": 33,
+          "trimmedY": 16,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Broken 1": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Broken 1/Broken 1_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 434,
+          "y": 184,
+          "w": 61,
+          "h": 146,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 146,
+          "trimmedH": 61,
+          "trimmedX": 34,
+          "trimmedY": 9,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Idle 2": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Idle 2/Idle 2_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 185,
+          "y": 354,
+          "w": 177,
+          "h": 163,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 177,
+          "trimmedH": 163,
+          "trimmedX": 17,
+          "trimmedY": 18,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Gleam 2": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Gleam 2/Gleam 2_0000_dup_Idle 2_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 185,
+          "y": 354,
+          "w": 177,
+          "h": 163,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Coin Rocks/Idle 2/Idle 2_0000.png",
+          "trimmedW": 177,
+          "trimmedH": 163,
+          "trimmedX": 17,
+          "trimmedY": 18,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 2/Gleam 2_0001.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 185,
+          "y": 521,
+          "w": 177,
+          "h": 163,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 177,
+          "trimmedH": 163,
+          "trimmedX": 17,
+          "trimmedY": 18,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 2/Gleam 2_0002.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 530,
+          "w": 177,
+          "h": 163,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 177,
+          "trimmedH": 163,
+          "trimmedX": 17,
+          "trimmedY": 18,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 2/Gleam 2_0003.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 183,
+          "y": 688,
+          "w": 177,
+          "h": 163,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 177,
+          "trimmedH": 163,
+          "trimmedX": 17,
+          "trimmedY": 18,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Broken 2": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Broken 2/Broken 2_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 368,
+          "y": 184,
+          "w": 62,
+          "h": 179,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 62,
+          "trimmedX": 15,
+          "trimmedY": 3,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Idle 3": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Idle 3/Idle 3_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 2,
+          "w": 179,
+          "h": 172,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 172,
+          "trimmedX": 15,
+          "trimmedY": 7,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Gleam 3": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Gleam 3/Gleam 3_0000_dup_Idle 3_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 2,
+          "w": 179,
+          "h": 172,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Coin Rocks/Idle 3/Idle 3_0000.png",
+          "trimmedW": 179,
+          "trimmedH": 172,
+          "trimmedX": 15,
+          "trimmedY": 7,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 3/Gleam 3_0001.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 185,
+          "y": 2,
+          "w": 179,
+          "h": 172,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 172,
+          "trimmedX": 15,
+          "trimmedY": 7,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 3/Gleam 3_0002.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 178,
+          "w": 179,
+          "h": 172,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 172,
+          "trimmedX": 15,
+          "trimmedY": 7,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 3/Gleam 3_0003.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 185,
+          "y": 178,
+          "w": 179,
+          "h": 172,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 172,
+          "trimmedX": 15,
+          "trimmedY": 7,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        },
+        {
+          "name": "Coin Rocks/Gleam 3/Gleam 3_0004.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 2,
+          "y": 354,
+          "w": 179,
+          "h": 172,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 179,
+          "trimmedH": 172,
+          "trimmedX": 15,
+          "trimmedY": 7,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    },
+    "Broken 3": {
+      "sprites": [
+        {
+          "name": "Coin Rocks/Broken 3/Broken 3_0000_dup_Broken 2_0000.png",
+          "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+          "x": 368,
+          "y": 184,
+          "w": 62,
+          "h": 179,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Coin Rocks/Broken 2/Broken 2_0000.png",
+          "trimmedW": 179,
+          "trimmedH": 62,
+          "trimmedX": 15,
+          "trimmedY": 3,
+          "untrimmedW": 209,
+          "untrimmedH": 194
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "9c43bd28464a8dd4b9b1b1dc80f2ee77",
+      "atlasPath": "Atlases/Original/Collections/Coin Rocks Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

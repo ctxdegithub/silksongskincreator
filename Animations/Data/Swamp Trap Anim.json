@@ -1,0 +1,241 @@
+{
+  "animations": {
+    "Stake Fly": {
+      "sprites": [
+        {
+          "name": "Swamp Trap Anim/Stake Fly/Stake Fly_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 297,
+          "y": 108,
+          "w": 28,
+          "h": 276,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 276,
+          "trimmedH": 28,
+          "trimmedX": 11,
+          "trimmedY": 38,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        }
+      ]
+    },
+    "Stake Idle": {
+      "sprites": [
+        {
+          "name": "Swamp Trap Anim/Stake Idle/Stake Idle_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 2,
+          "y": 108,
+          "w": 255,
+          "h": 29,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 255,
+          "trimmedH": 29,
+          "trimmedX": 30,
+          "trimmedY": 37,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        }
+      ]
+    },
+    "Stake Thunk": {
+      "sprites": [
+        {
+          "name": "Swamp Trap Anim/Stake Thunk/Stake Thunk_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 331,
+          "y": 2,
+          "w": 52,
+          "h": 256,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 256,
+          "trimmedH": 52,
+          "trimmedX": 38,
+          "trimmedY": 25,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        },
+        {
+          "name": "Swamp Trap Anim/Stake Thunk/Stake Thunk_0001.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 441,
+          "y": 2,
+          "w": 47,
+          "h": 258,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 258,
+          "trimmedH": 47,
+          "trimmedX": 29,
+          "trimmedY": 31,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        },
+        {
+          "name": "Swamp Trap Anim/Stake Thunk/Stake Thunk_0002.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 387,
+          "y": 2,
+          "w": 50,
+          "h": 258,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 258,
+          "trimmedH": 50,
+          "trimmedX": 29,
+          "trimmedY": 16,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        },
+        {
+          "name": "Swamp Trap Anim/Stake Thunk/Stake Thunk_0003.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 2,
+          "y": 262,
+          "w": 255,
+          "h": 37,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 255,
+          "trimmedH": 37,
+          "trimmedX": 30,
+          "trimmedY": 36,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        },
+        {
+          "name": "Swamp Trap Anim/Stake Thunk/Stake Thunk_0004.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 261,
+          "y": 108,
+          "w": 32,
+          "h": 256,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 256,
+          "trimmedH": 32,
+          "trimmedX": 30,
+          "trimmedY": 33,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        },
+        {
+          "name": "Swamp Trap Anim/Stake Thunk/Stake Thunk_0005_dup_Stake Idle_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 2,
+          "y": 108,
+          "w": 255,
+          "h": 29,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Swamp Trap Anim/Stake Idle/Stake Idle_0000.png",
+          "trimmedW": 255,
+          "trimmedH": 29,
+          "trimmedX": 30,
+          "trimmedY": 37,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        }
+      ]
+    },
+    "Stake Broken": {
+      "sprites": [
+        {
+          "name": "Swamp Trap Anim/Stake Broken/Stake Broken_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 329,
+          "y": 262,
+          "w": 29,
+          "h": 152,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 152,
+          "trimmedH": 29,
+          "trimmedX": 45,
+          "trimmedY": 37,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        }
+      ]
+    },
+    "Stake Tip": {
+      "sprites": [
+        {
+          "name": "Swamp Trap Anim/Stake Tip/Stake Tip_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 467,
+          "y": 264,
+          "w": 24,
+          "h": 116,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 116,
+          "trimmedH": 24,
+          "trimmedX": 169,
+          "trimmedY": 41,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        }
+      ]
+    },
+    "Stake Appear": {
+      "sprites": [
+        {
+          "name": "Swamp Trap Anim/Stake Appear/Stake Appear_0000_dup_Stake Fly_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 297,
+          "y": 108,
+          "w": 28,
+          "h": 276,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Swamp Trap Anim/Stake Fly/Stake Fly_0000.png",
+          "trimmedW": 276,
+          "trimmedH": 28,
+          "trimmedX": 11,
+          "trimmedY": 38,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        },
+        {
+          "name": "Swamp Trap Anim/Stake Appear/Stake Appear_0001_dup_Stake Idle_0000.png",
+          "atlasGUID": "daea70f0353129443896d77032d3dea2",
+          "x": 2,
+          "y": 108,
+          "w": 255,
+          "h": 29,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Swamp Trap Anim/Stake Idle/Stake Idle_0000.png",
+          "trimmedW": 255,
+          "trimmedH": 29,
+          "trimmedX": 30,
+          "trimmedY": 37,
+          "untrimmedW": 303,
+          "untrimmedH": 117
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "daea70f0353129443896d77032d3dea2",
+      "atlasPath": "Atlases/Original/Collections/Swamp Trap Cln Data/atlas0.png",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

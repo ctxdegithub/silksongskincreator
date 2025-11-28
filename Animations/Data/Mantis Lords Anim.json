@@ -1,0 +1,116 @@
+{
+  "animations": {
+    "Wall Arrive": {
+      "sprites": []
+    },
+    "Dash Arrive": {
+      "sprites": []
+    },
+    "Dash Antic": {
+      "sprites": []
+    },
+    "Dash Attack": {
+      "sprites": []
+    },
+    "Dash Recover": {
+      "sprites": []
+    },
+    "Dash Leave": {
+      "sprites": []
+    },
+    "Throne Wounded": {
+      "sprites": []
+    },
+    "Wall Ready": {
+      "sprites": []
+    },
+    "Throne Idle": {
+      "sprites": []
+    },
+    "Throne Stand": {
+      "sprites": []
+    },
+    "Throne Leave": {
+      "sprites": []
+    },
+    "Dstab Arrive": {
+      "sprites": []
+    },
+    "Dstab Attack": {
+      "sprites": []
+    },
+    "Dstab Land": {
+      "sprites": []
+    },
+    "Dstab Leave": {
+      "sprites": []
+    },
+    "Throw Antic": {
+      "sprites": []
+    },
+    "Throw": {
+      "sprites": []
+    },
+    "Wall Leave 1": {
+      "sprites": []
+    },
+    "Wall Leave 2": {
+      "sprites": []
+    },
+    "Lance": {
+      "sprites": []
+    },
+    "Projectile Break": {
+      "sprites": []
+    },
+    "Knight Challenge 1": {
+      "sprites": []
+    },
+    "Knight Challenge 2": {
+      "sprites": []
+    },
+    "Death Air": {
+      "sprites": []
+    },
+    "Death Land": {
+      "sprites": []
+    },
+    "Death Leave": {
+      "sprites": []
+    },
+    "Throne Bow": {
+      "sprites": []
+    },
+    "Throne Look": {
+      "sprites": []
+    },
+    "Throne Gesture 1": {
+      "sprites": []
+    },
+    "Throne Look Up": {
+      "sprites": []
+    },
+    "Throne Look Down": {
+      "sprites": []
+    },
+    "Throne Gesture 2": {
+      "sprites": []
+    },
+    "Mantis Air Projectile": {
+      "sprites": []
+    },
+    "Death New 1": {
+      "sprites": []
+    },
+    "Death New 2": {
+      "sprites": []
+    },
+    "Triple Gesture 1": {
+      "sprites": []
+    },
+    "Triple Gesture 2": {
+      "sprites": []
+    }
+  },
+  "atlases": []
+}

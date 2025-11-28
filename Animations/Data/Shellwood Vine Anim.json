@@ -1,0 +1,199 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Shellwood Vine Anim/Idle/Idle_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 681,
+          "y": 2,
+          "w": 246,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 246,
+          "trimmedH": 675,
+          "trimmedX": 10,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        }
+      ]
+    },
+    "Hit 1": {
+      "sprites": [
+        {
+          "name": "Shellwood Vine Anim/Hit 1/Hit 1_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 2,
+          "y": 2,
+          "w": 255,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 255,
+          "trimmedH": 675,
+          "trimmedX": 23,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        },
+        {
+          "name": "Shellwood Vine Anim/Hit 1/Hit 1_0001.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 2,
+          "y": 681,
+          "w": 675,
+          "h": 248,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 248,
+          "trimmedH": 675,
+          "trimmedX": 8,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        },
+        {
+          "name": "Shellwood Vine Anim/Hit 1/Hit 1_0002_dup_Idle_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 681,
+          "y": 2,
+          "w": 246,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Vine Anim/Idle/Idle_0000.png",
+          "trimmedW": 246,
+          "trimmedH": 675,
+          "trimmedX": 10,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        }
+      ]
+    },
+    "Hit 2": {
+      "sprites": [
+        {
+          "name": "Shellwood Vine Anim/Hit 2/Hit 2_0000_dup_Hit 1_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 2,
+          "y": 2,
+          "w": 255,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Vine Anim/Hit 1/Hit 1_0000.png",
+          "trimmedW": 255,
+          "trimmedH": 675,
+          "trimmedX": 23,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        },
+        {
+          "name": "Shellwood Vine Anim/Hit 2/Hit 2_0001_dup_Hit 1_0001.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 2,
+          "y": 681,
+          "w": 675,
+          "h": 248,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Vine Anim/Hit 1/Hit 1_0001.png",
+          "trimmedW": 248,
+          "trimmedH": 675,
+          "trimmedX": 8,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        },
+        {
+          "name": "Shellwood Vine Anim/Hit 2/Hit 2_0002_dup_Hit 1_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 2,
+          "y": 2,
+          "w": 255,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Vine Anim/Hit 1/Hit 1_0000.png",
+          "trimmedW": 255,
+          "trimmedH": 675,
+          "trimmedX": 23,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        },
+        {
+          "name": "Shellwood Vine Anim/Hit 2/Hit 2_0003_dup_Hit 1_0001.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 2,
+          "y": 681,
+          "w": 675,
+          "h": 248,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Vine Anim/Hit 1/Hit 1_0001.png",
+          "trimmedW": 248,
+          "trimmedH": 675,
+          "trimmedX": 8,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        },
+        {
+          "name": "Shellwood Vine Anim/Hit 2/Hit 2_0004_dup_Idle_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 681,
+          "y": 2,
+          "w": 246,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Vine Anim/Idle/Idle_0000.png",
+          "trimmedW": 246,
+          "trimmedH": 675,
+          "trimmedX": 10,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        }
+      ]
+    },
+    "Broken": {
+      "sprites": [
+        {
+          "name": "Shellwood Vine Anim/Broken/Broken_0000.png",
+          "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+          "x": 261,
+          "y": 2,
+          "w": 221,
+          "h": 675,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 221,
+          "trimmedH": 675,
+          "trimmedX": 35,
+          "trimmedY": 1,
+          "untrimmedW": 289,
+          "untrimmedH": 676
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "47cbbe4e3ff6cf94a91aeb4d10951c68",
+      "atlasPath": "Atlases/Original/Collections/Shellwood Vine Cln Data/atlas0.png",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

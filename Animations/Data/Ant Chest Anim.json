@@ -1,0 +1,165 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Ant Chest Anim/Idle/Idle_0000.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 315,
+          "y": 2,
+          "w": 192,
+          "h": 265,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 265,
+          "trimmedH": 192,
+          "trimmedX": 43,
+          "trimmedY": 24,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        }
+      ]
+    },
+    "Open": {
+      "sprites": [
+        {
+          "name": "Ant Chest Anim/Open/Open_0000.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 315,
+          "y": 271,
+          "w": 188,
+          "h": 266,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 266,
+          "trimmedH": 188,
+          "trimmedX": 43,
+          "trimmedY": 21,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        },
+        {
+          "name": "Ant Chest Anim/Open/Open_0001.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 2,
+          "y": 285,
+          "w": 279,
+          "h": 206,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 279,
+          "trimmedH": 206,
+          "trimmedX": 38,
+          "trimmedY": 24,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        },
+        {
+          "name": "Ant Chest Anim/Open/Open_0002.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 2,
+          "y": 2,
+          "w": 309,
+          "h": 279,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 279,
+          "trimmedH": 309,
+          "trimmedX": 39,
+          "trimmedY": 38,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        },
+        {
+          "name": "Ant Chest Anim/Open/Open_0003.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 2,
+          "y": 495,
+          "w": 266,
+          "h": 196,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 266,
+          "trimmedH": 196,
+          "trimmedX": 43,
+          "trimmedY": 26,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        },
+        {
+          "name": "Ant Chest Anim/Open/Open_0004.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 272,
+          "y": 541,
+          "w": 172,
+          "h": 265,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 265,
+          "trimmedH": 172,
+          "trimmedX": 43,
+          "trimmedY": 23,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        }
+      ]
+    },
+    "Back": {
+      "sprites": [
+        {
+          "name": "Ant Chest Anim/Back/Back_0000.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 2,
+          "y": 695,
+          "w": 198,
+          "h": 138,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 198,
+          "trimmedH": 138,
+          "trimmedX": 69,
+          "trimmedY": 26,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        }
+      ]
+    },
+    "Opened": {
+      "sprites": [
+        {
+          "name": "Ant Chest Anim/Opened/Opened_0000_dup_Open_0004.png",
+          "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+          "x": 272,
+          "y": 541,
+          "w": 172,
+          "h": 265,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Ant Chest Anim/Open/Open_0004.png",
+          "trimmedW": 265,
+          "trimmedH": 172,
+          "trimmedX": 43,
+          "trimmedY": 23,
+          "untrimmedW": 356,
+          "untrimmedH": 357
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "b1686196eef4f214e9b4a12281ea8d19",
+      "atlasPath": "Atlases/Original/Collections/Ant Chest Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

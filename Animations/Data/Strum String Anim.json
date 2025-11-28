@@ -1,0 +1,212 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Strum String Anim/Idle/Idle_0000.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 75,
+          "y": 681,
+          "w": 205,
+          "h": 14,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 14,
+          "trimmedH": 205,
+          "trimmedX": 1,
+          "trimmedY": 0,
+          "untrimmedW": 16,
+          "untrimmedH": 205
+        }
+      ]
+    },
+    "Strum": {
+      "sprites": [
+        {
+          "name": "Strum String Anim/Strum/Strum_0000.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 51,
+          "y": 731,
+          "w": 205,
+          "h": 14,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 14,
+          "trimmedH": 205,
+          "trimmedX": 1,
+          "trimmedY": 0,
+          "untrimmedW": 16,
+          "untrimmedH": 205
+        },
+        {
+          "name": "Strum String Anim/Strum/Strum_0001.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 75,
+          "y": 2,
+          "w": 14,
+          "h": 205,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 14,
+          "trimmedH": 205,
+          "trimmedX": 1,
+          "trimmedY": 0,
+          "untrimmedW": 16,
+          "untrimmedH": 205
+        },
+        {
+          "name": "Strum String Anim/Strum/Strum_0002.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 75,
+          "y": 211,
+          "w": 14,
+          "h": 205,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 14,
+          "trimmedH": 205,
+          "trimmedX": 1,
+          "trimmedY": 0,
+          "untrimmedW": 16,
+          "untrimmedH": 205
+        },
+        {
+          "name": "Strum String Anim/Strum/Strum_0003.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 2,
+          "y": 967,
+          "w": 205,
+          "h": 16,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 16,
+          "trimmedH": 205,
+          "trimmedX": 0,
+          "trimmedY": 0,
+          "untrimmedW": 16,
+          "untrimmedH": 205
+        }
+      ]
+    },
+    "Yank": {
+      "sprites": [
+        {
+          "name": "Strum String Anim/Yank/Yank_0000.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 2,
+          "y": 752,
+          "w": 433,
+          "h": 24,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 24,
+          "trimmedH": 433,
+          "trimmedX": 83,
+          "trimmedY": 388,
+          "untrimmedW": 198,
+          "untrimmedH": 1084
+        },
+        {
+          "name": "Strum String Anim/Yank/Yank_0001.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 276,
+          "y": 2,
+          "w": 18,
+          "h": 639,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 18,
+          "trimmedH": 639,
+          "trimmedX": 80,
+          "trimmedY": 189,
+          "untrimmedW": 198,
+          "untrimmedH": 1084
+        },
+        {
+          "name": "Strum String Anim/Yank/Yank_0002.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 51,
+          "y": 2,
+          "w": 20,
+          "h": 707,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 20,
+          "trimmedH": 707,
+          "trimmedX": 82,
+          "trimmedY": 136,
+          "untrimmedW": 198,
+          "untrimmedH": 1084
+        },
+        {
+          "name": "Strum String Anim/Yank/Yank_0003.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 439,
+          "y": 2,
+          "w": 29,
+          "h": 972,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 29,
+          "trimmedH": 972,
+          "trimmedX": 79,
+          "trimmedY": 52,
+          "untrimmedW": 198,
+          "untrimmedH": 1084
+        },
+        {
+          "name": "Strum String Anim/Yank/Yank_0004.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 472,
+          "y": 2,
+          "w": 29,
+          "h": 961,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 29,
+          "trimmedH": 961,
+          "trimmedX": 79,
+          "trimmedY": 123,
+          "untrimmedW": 198,
+          "untrimmedH": 1084
+        },
+        {
+          "name": "Strum String Anim/Yank/Yank_0005.png",
+          "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+          "x": 2,
+          "y": 2,
+          "w": 45,
+          "h": 746,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 45,
+          "trimmedH": 746,
+          "trimmedX": 59,
+          "trimmedY": 216,
+          "untrimmedW": 198,
+          "untrimmedH": 1084
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "c5b56099fefce1f47b77d49c62415508",
+      "atlasPath": "Atlases/Original/Collections/Strum String Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

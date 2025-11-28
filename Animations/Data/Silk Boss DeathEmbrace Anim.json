@@ -1,0 +1,191 @@
+{
+  "animations": {
+    "Impact": {
+      "sprites": [
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Impact/Impact_0000.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 604,
+          "y": 1254,
+          "w": 645,
+          "h": 563,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 645,
+          "trimmedH": 563,
+          "trimmedX": 184,
+          "trimmedY": 152,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Impact/Impact_0001.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 704,
+          "y": 2,
+          "w": 674,
+          "h": 620,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 674,
+          "trimmedH": 620,
+          "trimmedX": 111,
+          "trimmedY": 105,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Impact/Impact_0002.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 659,
+          "y": 626,
+          "w": 649,
+          "h": 624,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 649,
+          "trimmedH": 624,
+          "trimmedX": 118,
+          "trimmedY": 91,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Impact/Impact_0003.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 2,
+          "y": 614,
+          "w": 653,
+          "h": 627,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 653,
+          "trimmedH": 627,
+          "trimmedX": 122,
+          "trimmedY": 93,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Impact/Impact_0004.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 1382,
+          "y": 2,
+          "w": 656,
+          "h": 621,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 656,
+          "trimmedH": 621,
+          "trimmedX": 119,
+          "trimmedY": 98,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        }
+      ]
+    },
+    "Embrace": {
+      "sprites": [
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Embrace/Embrace_0000_dup_Impact_0001.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 704,
+          "y": 2,
+          "w": 674,
+          "h": 620,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Silk Boss DeathEmbrace Anim/Impact/Impact_0001.png",
+          "trimmedW": 674,
+          "trimmedH": 620,
+          "trimmedX": 111,
+          "trimmedY": 105,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Embrace/Embrace_0001.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 2,
+          "y": 2,
+          "w": 698,
+          "h": 608,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 698,
+          "trimmedH": 608,
+          "trimmedX": 103,
+          "trimmedY": 129,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Embrace/Embrace_0002.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 1312,
+          "y": 1230,
+          "w": 657,
+          "h": 601,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 601,
+          "trimmedH": 657,
+          "trimmedX": 167,
+          "trimmedY": 115,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Embrace/Embrace_0003.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 2,
+          "y": 1245,
+          "w": 598,
+          "h": 672,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 598,
+          "trimmedH": 672,
+          "trimmedX": 177,
+          "trimmedY": 118,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        },
+        {
+          "name": "Silk Boss DeathEmbrace Anim/Embrace/Embrace_0004.png",
+          "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+          "x": 1312,
+          "y": 627,
+          "w": 663,
+          "h": 599,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 599,
+          "trimmedH": 663,
+          "trimmedX": 177,
+          "trimmedY": 122,
+          "untrimmedW": 1059,
+          "untrimmedH": 914
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "26115b7ac795b7a49a84827e17c2fd2a",
+      "atlasPath": "Atlases/Original/Collections/Silk Boss DeathEmbrace Cln Data/atlas0.png",
+      "width": 2048,
+      "height": 2048
+    }
+  ]
+}

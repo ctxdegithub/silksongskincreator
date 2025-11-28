@@ -1,0 +1,233 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Cradle Challenge Pea Anim/Idle/Idle_0000.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 141,
+          "y": 2,
+          "w": 110,
+          "h": 103,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 103,
+          "trimmedH": 110,
+          "trimmedX": 71,
+          "trimmedY": 56,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        }
+      ]
+    },
+    "Hit": {
+      "sprites": [
+        {
+          "name": "Cradle Challenge Pea Anim/Hit/Hit_0000.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 147,
+          "y": 213,
+          "w": 54,
+          "h": 50,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 50,
+          "trimmedH": 54,
+          "trimmedX": 100,
+          "trimmedY": 40,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Hit/Hit_0001.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 90,
+          "y": 213,
+          "w": 53,
+          "h": 51,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 53,
+          "trimmedH": 51,
+          "trimmedX": 97,
+          "trimmedY": 28,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Hit/Hit_0002.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 205,
+          "y": 213,
+          "w": 49,
+          "h": 54,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 49,
+          "trimmedH": 54,
+          "trimmedX": 102,
+          "trimmedY": 67,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        }
+      ]
+    },
+    "Recover": {
+      "sprites": [
+        {
+          "name": "Cradle Challenge Pea Anim/Recover/Recover_0000.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 147,
+          "y": 267,
+          "w": 53,
+          "h": 49,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 49,
+          "trimmedH": 53,
+          "trimmedX": 102,
+          "trimmedY": 60,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Recover/Recover_0001.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 2,
+          "y": 209,
+          "w": 84,
+          "h": 79,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 79,
+          "trimmedH": 84,
+          "trimmedX": 84,
+          "trimmedY": 46,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Recover/Recover_0002.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 2,
+          "y": 116,
+          "w": 95,
+          "h": 89,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 95,
+          "trimmedH": 89,
+          "trimmedX": 76,
+          "trimmedY": 45,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Recover/Recover_0003.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 2,
+          "y": 2,
+          "w": 135,
+          "h": 110,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 135,
+          "trimmedH": 110,
+          "trimmedX": 57,
+          "trimmedY": 34,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Recover/Recover_0004.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 141,
+          "y": 109,
+          "w": 111,
+          "h": 100,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 100,
+          "trimmedH": 111,
+          "trimmedX": 76,
+          "trimmedY": 61,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Recover/Recover_0005_dup_Idle_0000.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 141,
+          "y": 2,
+          "w": 110,
+          "h": 103,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Cradle Challenge Pea Anim/Idle/Idle_0000.png",
+          "trimmedW": 103,
+          "trimmedH": 110,
+          "trimmedX": 71,
+          "trimmedY": 56,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        }
+      ]
+    },
+    "Hook": {
+      "sprites": [
+        {
+          "name": "Cradle Challenge Pea Anim/Hook/Hook_0000_dup_Recover_0004.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 141,
+          "y": 109,
+          "w": 111,
+          "h": 100,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Cradle Challenge Pea Anim/Recover/Recover_0004.png",
+          "trimmedW": 100,
+          "trimmedH": 111,
+          "trimmedX": 76,
+          "trimmedY": 61,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        },
+        {
+          "name": "Cradle Challenge Pea Anim/Hook/Hook_0001_dup_Idle_0000.png",
+          "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+          "x": 141,
+          "y": 2,
+          "w": 110,
+          "h": 103,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Cradle Challenge Pea Anim/Idle/Idle_0000.png",
+          "trimmedW": 103,
+          "trimmedH": 110,
+          "trimmedX": 71,
+          "trimmedY": 56,
+          "untrimmedW": 242,
+          "untrimmedH": 204
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "d30ab02fac7f2b84db0328f0d1f7cf12",
+      "atlasPath": "Atlases/Original/Collections/Cradle Challenge Pea Cln Data/atlas0.png",
+      "width": 256,
+      "height": 512
+    }
+  ]
+}

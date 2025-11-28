@@ -1,0 +1,267 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Idle/Idle_0000.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 382,
+          "y": 290,
+          "w": 116,
+          "h": 269,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 269,
+          "trimmedH": 116,
+          "trimmedX": 56,
+          "trimmedY": 77,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Idle/Idle_0001.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 256,
+          "y": 547,
+          "w": 120,
+          "h": 259,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 259,
+          "trimmedH": 120,
+          "trimmedX": 61,
+          "trimmedY": 77,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Idle/Idle_0002.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 129,
+          "y": 401,
+          "w": 123,
+          "h": 259,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 259,
+          "trimmedH": 123,
+          "trimmedX": 56,
+          "trimmedY": 77,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Idle/Idle_0003.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 2,
+          "y": 410,
+          "w": 118,
+          "h": 268,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 268,
+          "trimmedH": 118,
+          "trimmedX": 57,
+          "trimmedY": 77,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Idle/Idle_0004.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 260,
+          "y": 271,
+          "w": 118,
+          "h": 272,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 272,
+          "trimmedH": 118,
+          "trimmedX": 53,
+          "trimmedY": 76,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        }
+      ]
+    },
+    "Sing": {
+      "sprites": [
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Sing/Sing_0000.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 2,
+          "y": 134,
+          "w": 123,
+          "h": 272,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 272,
+          "trimmedH": 123,
+          "trimmedX": 53,
+          "trimmedY": 66,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Sing/Sing_0001.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 129,
+          "y": 134,
+          "w": 127,
+          "h": 263,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 263,
+          "trimmedH": 127,
+          "trimmedX": 62,
+          "trimmedY": 60,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Sing/Sing_0002.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 2,
+          "y": 2,
+          "w": 265,
+          "h": 128,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 265,
+          "trimmedH": 128,
+          "trimmedX": 61,
+          "trimmedY": 69,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Sing/Sing_0003.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 271,
+          "y": 2,
+          "w": 128,
+          "h": 265,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 265,
+          "trimmedH": 128,
+          "trimmedX": 61,
+          "trimmedY": 69,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        }
+      ]
+    },
+    "Sing End": {
+      "sprites": [
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Sing End/Sing End_0000_dup_Sing_0001.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 129,
+          "y": 134,
+          "w": 127,
+          "h": 263,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Bone Goomba Bounce Fly Anim/Sing/Sing_0001.png",
+          "trimmedW": 263,
+          "trimmedH": 127,
+          "trimmedX": 62,
+          "trimmedY": 60,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Sing End/Sing End_0001_dup_Sing_0000.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 2,
+          "y": 134,
+          "w": 123,
+          "h": 272,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Bone Goomba Bounce Fly Anim/Sing/Sing_0000.png",
+          "trimmedW": 272,
+          "trimmedH": 123,
+          "trimmedX": 53,
+          "trimmedY": 66,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        }
+      ]
+    },
+    "Death Air": {
+      "sprites": [
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Death Air/Death Air_0000.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 403,
+          "y": 207,
+          "w": 105,
+          "h": 79,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 105,
+          "trimmedH": 79,
+          "trimmedX": 123,
+          "trimmedY": 64,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Death Air/Death Air_0001.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 403,
+          "y": 117,
+          "w": 104,
+          "h": 86,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 104,
+          "trimmedH": 86,
+          "trimmedX": 124,
+          "trimmedY": 55,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        },
+        {
+          "name": "Bone Goomba Bounce Fly Anim/Death Air/Death Air_0002.png",
+          "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+          "x": 403,
+          "y": 2,
+          "w": 91,
+          "h": 111,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 111,
+          "trimmedH": 91,
+          "trimmedX": 119,
+          "trimmedY": 53,
+          "untrimmedW": 383,
+          "untrimmedH": 264
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "58a5fd8e87668044c866dd10e10a70e1",
+      "atlasPath": "Atlases/Original/Collections/Hornet Enemies/Bone Goomba Bounce Fly Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "animations": {
+    "Death Air": {
+      "sprites": [
+        {
+          "name": "Slab Fly Large Dead Anim/Death Air/Death Air_0000.png",
+          "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+          "x": 245,
+          "y": 282,
+          "w": 253,
+          "h": 249,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 253,
+          "trimmedH": 249,
+          "trimmedX": 174,
+          "trimmedY": 53,
+          "untrimmedW": 600,
+          "untrimmedH": 476
+        },
+        {
+          "name": "Slab Fly Large Dead Anim/Death Air/Death Air_0001.png",
+          "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+          "x": 2,
+          "y": 2,
+          "w": 285,
+          "h": 258,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 285,
+          "trimmedH": 258,
+          "trimmedX": 168,
+          "trimmedY": 45,
+          "untrimmedW": 600,
+          "untrimmedH": 476
+        }
+      ]
+    },
+    "Death Land": {
+      "sprites": [
+        {
+          "name": "Slab Fly Large Dead Anim/Death Land/Death Land_0000.png",
+          "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+          "x": 2,
+          "y": 264,
+          "w": 239,
+          "h": 286,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 239,
+          "trimmedH": 286,
+          "trimmedX": 205,
+          "trimmedY": 8,
+          "untrimmedW": 600,
+          "untrimmedH": 476
+        },
+        {
+          "name": "Slab Fly Large Dead Anim/Death Land/Death Land_0001.png",
+          "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+          "x": 291,
+          "y": 2,
+          "w": 179,
+          "h": 276,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 276,
+          "trimmedH": 179,
+          "trimmedX": 154,
+          "trimmedY": 24,
+          "untrimmedW": 600,
+          "untrimmedH": 476
+        },
+        {
+          "name": "Slab Fly Large Dead Anim/Death Land/Death Land_0002.png",
+          "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+          "x": 2,
+          "y": 554,
+          "w": 182,
+          "h": 260,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 260,
+          "trimmedH": 182,
+          "trimmedX": 171,
+          "trimmedY": 23,
+          "untrimmedW": 600,
+          "untrimmedH": 476
+        },
+        {
+          "name": "Slab Fly Large Dead Anim/Death Land/Death Land_0003.png",
+          "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+          "x": 245,
+          "y": 535,
+          "w": 259,
+          "h": 185,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 259,
+          "trimmedH": 185,
+          "trimmedX": 171,
+          "trimmedY": 16,
+          "untrimmedW": 600,
+          "untrimmedH": 476
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "42736b54d3c0b494f8e6f9ac39c30f88",
+      "atlasPath": "Atlases/Original/Collections/Slab Fly Large Dead Cln Data/atlas0.png",
+      "width": 512,
+      "height": 1024
+    }
+  ]
+}

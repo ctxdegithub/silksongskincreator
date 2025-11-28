@@ -1,0 +1,267 @@
+{
+  "animations": {
+    "Idle": {
+      "sprites": [
+        {
+          "name": "Shellwood Bounce Bloom Anim/Idle/Idle_0000.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 2,
+          "w": 118,
+          "h": 115,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 118,
+          "trimmedH": 115,
+          "trimmedX": 21,
+          "trimmedY": 37,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        }
+      ]
+    },
+    "Hit": {
+      "sprites": [
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hit/Hit_0000.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 124,
+          "y": 2,
+          "w": 87,
+          "h": 147,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 147,
+          "trimmedH": 87,
+          "trimmedX": 6,
+          "trimmedY": 22,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hit/Hit_0001.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 111,
+          "y": 153,
+          "w": 127,
+          "h": 95,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 127,
+          "trimmedH": 95,
+          "trimmedX": 15,
+          "trimmedY": 20,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hit/Hit_0002.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 246,
+          "w": 101,
+          "h": 63,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 101,
+          "trimmedH": 63,
+          "trimmedX": 32,
+          "trimmedY": 25,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hit/Hit_0003.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 313,
+          "w": 73,
+          "h": 55,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 73,
+          "trimmedH": 55,
+          "trimmedX": 44,
+          "trimmedY": 23,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hit/Hit_0004.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 79,
+          "y": 364,
+          "w": 46,
+          "h": 53,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 46,
+          "trimmedH": 53,
+          "trimmedX": 53,
+          "trimmedY": 31,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        }
+      ]
+    },
+    "Recover": {
+      "sprites": [
+        {
+          "name": "Shellwood Bounce Bloom Anim/Recover/Recover_0000_dup_Hit_0003.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 313,
+          "w": 73,
+          "h": 55,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Bounce Bloom Anim/Hit/Hit_0003.png",
+          "trimmedW": 73,
+          "trimmedH": 55,
+          "trimmedX": 44,
+          "trimmedY": 23,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Recover/Recover_0001_dup_Hit_0002.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 246,
+          "w": 101,
+          "h": 63,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Bounce Bloom Anim/Hit/Hit_0002.png",
+          "trimmedW": 101,
+          "trimmedH": 63,
+          "trimmedX": 32,
+          "trimmedY": 25,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Recover/Recover_0002_dup_Hit_0001.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 111,
+          "y": 153,
+          "w": 127,
+          "h": 95,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Bounce Bloom Anim/Hit/Hit_0001.png",
+          "trimmedW": 127,
+          "trimmedH": 95,
+          "trimmedX": 15,
+          "trimmedY": 20,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Recover/Recover_0003_dup_Idle_0000.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 2,
+          "w": 118,
+          "h": 115,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Bounce Bloom Anim/Idle/Idle_0000.png",
+          "trimmedW": 118,
+          "trimmedH": 115,
+          "trimmedX": 21,
+          "trimmedY": 37,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Recover/Recover_0004.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 107,
+          "y": 252,
+          "w": 111,
+          "h": 108,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 108,
+          "trimmedH": 111,
+          "trimmedX": 23,
+          "trimmedY": 37,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        }
+      ]
+    },
+    "Hook": {
+      "sprites": [
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hook/Hook_0000.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 121,
+          "w": 105,
+          "h": 121,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 121,
+          "trimmedH": 105,
+          "trimmedX": 20,
+          "trimmedY": 36,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hook/Hook_0001_dup_Recover_0004.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 107,
+          "y": 252,
+          "w": 111,
+          "h": 108,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Bounce Bloom Anim/Recover/Recover_0004.png",
+          "trimmedW": 108,
+          "trimmedH": 111,
+          "trimmedX": 23,
+          "trimmedY": 37,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        },
+        {
+          "name": "Shellwood Bounce Bloom Anim/Hook/Hook_0002_dup_Idle_0000.png",
+          "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+          "x": 2,
+          "y": 2,
+          "w": 118,
+          "h": 115,
+          "rotated": false,
+          "isDuplicate": true,
+          "duplicateOf": "Shellwood Bounce Bloom Anim/Idle/Idle_0000.png",
+          "trimmedW": 118,
+          "trimmedH": 115,
+          "trimmedX": 21,
+          "trimmedY": 37,
+          "untrimmedW": 155,
+          "untrimmedH": 173
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "163c67ffa9c707946b7c1f6710311af5",
+      "atlasPath": "Atlases/Original/Collections/Shellwood Bounce Bloom Cln Data/atlas0.png",
+      "width": 256,
+      "height": 512
+    }
+  ]
+}

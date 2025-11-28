@@ -1,0 +1,144 @@
+{
+  "animations": {
+    "Standard Hit": {
+      "sprites": [
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Hit/Standard Hit_0000.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 762,
+          "w": 692,
+          "h": 361,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 361,
+          "trimmedH": 692,
+          "trimmedX": 173,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        },
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Hit/Standard Hit_0001.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 2,
+          "w": 692,
+          "h": 382,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 382,
+          "trimmedH": 692,
+          "trimmedX": 148,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        },
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Hit/Standard Hit_0002.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 388,
+          "w": 692,
+          "h": 370,
+          "rotated": true,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 370,
+          "trimmedH": 692,
+          "trimmedX": 154,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        }
+      ]
+    },
+    "Standard Idle": {
+      "sprites": [
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Idle/Standard Idle_0000_dup_Standard Hit_0002.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 388,
+          "w": 692,
+          "h": 370,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Crest_Shrine_Tube_Break_Anim/Standard Hit/Standard Hit_0002.png",
+          "trimmedW": 370,
+          "trimmedH": 692,
+          "trimmedX": 154,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        }
+      ]
+    },
+    "Standard Snap": {
+      "sprites": [
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Snap/Standard Snap_0000_dup_Standard Hit_0001.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 2,
+          "w": 692,
+          "h": 382,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Crest_Shrine_Tube_Break_Anim/Standard Hit/Standard Hit_0001.png",
+          "trimmedW": 382,
+          "trimmedH": 692,
+          "trimmedX": 148,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        },
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Snap/Standard Snap_0001_dup_Standard Hit_0000.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 762,
+          "w": 692,
+          "h": 361,
+          "rotated": true,
+          "isDuplicate": true,
+          "duplicateOf": "Crest_Shrine_Tube_Break_Anim/Standard Hit/Standard Hit_0000.png",
+          "trimmedW": 361,
+          "trimmedH": 692,
+          "trimmedX": 173,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        },
+        {
+          "name": "Crest_Shrine_Tube_Break_Anim/Standard Snap/Standard Snap_0002.png",
+          "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+          "x": 2,
+          "y": 1127,
+          "w": 332,
+          "h": 692,
+          "rotated": false,
+          "isDuplicate": false,
+          "duplicateOf": "",
+          "trimmedW": 332,
+          "trimmedH": 692,
+          "trimmedX": 183,
+          "trimmedY": 0,
+          "untrimmedW": 624,
+          "untrimmedH": 692
+        }
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "atlasName": "atlas0",
+      "atlasGUID": "15963d02a2b0c15469b0b7dc2eac553c",
+      "atlasPath": "Atlases/Original/Collections/SpriteCollection 11 Data/atlas0.png",
+      "width": 1024,
+      "height": 2048
+    }
+  ]
+}
